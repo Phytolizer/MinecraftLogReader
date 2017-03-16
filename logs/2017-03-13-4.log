@@ -1,0 +1,43 @@
+[18:42:40] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[18:43:38] [Server thread/INFO]: Loading properties
+[18:43:38] [Server thread/INFO]: Default game type: SURVIVAL
+[18:43:38] [Server thread/INFO]: Generating keypair
+[18:43:38] [Server thread/INFO]: Starting Minecraft server on *:7878
+[18:43:38] [Server thread/INFO]: Using default channel type
+[18:43:52] [Server thread/INFO]: Preparing level "world"
+[18:43:53] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[18:43:54] [Server thread/INFO]: Preparing start region for level 0
+[18:43:55] [Server thread/INFO]: Preparing spawn area: 12%
+[18:43:56] [Server thread/INFO]: Preparing spawn area: 99%
+[18:43:56] [Server thread/INFO]: Done (4.548s)! For help, type "help" or "?"
+[18:43:59] [Server thread/INFO]: FTBLib: Server reloaded in 2039ms
+[18:44:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2305ms behind, skipping 46 tick(s)
+[18:45:01] [User Authenticator #1/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[18:45:09] [Server thread/INFO]: davidahs592[/71.211.176.176:56780] logged in with entity id 1791 at (557.7420208128555, 67.0, -2159.717881259567)
+[18:45:09] [Server thread/INFO]: davidahs592 joined the game
+[18:45:12] [User Authenticator #2/INFO]: UUID of player onContentStop is a5a02fa8-538d-4d71-ab71-f8d847398cd8
+[18:45:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2561ms behind, skipping 51 tick(s)
+[18:45:14] [Server thread/INFO]: onContentStop[/192.168.0.1:55098] logged in with entity id 2538 at (700.605679686809, 49.0, 3210.8437919270564)
+[18:45:14] [Server thread/INFO]: onContentStop joined the game
+[18:46:00] [Server thread/INFO]: davidahs592 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:46:00] [Server thread/INFO]: davidahs592 left the game
+[18:48:58] [User Authenticator #3/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[18:49:01] [Server thread/INFO]: davidahs592[/71.211.176.176:56930] logged in with entity id 40695 at (557.7420208128555, 67.0, -2159.717881259567)
+[18:49:01] [Server thread/INFO]: davidahs592 joined the game
+[18:49:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2490ms behind, skipping 49 tick(s)
+[18:49:48] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:49:48] [Server thread/INFO]: davidahs592 left the game
+[18:51:36] [User Authenticator #4/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[18:51:38] [Server thread/INFO]: davidahs592[/71.211.176.176:57151] logged in with entity id 67569 at (557.7420208128555, 67.0, -2159.717881259567)
+[18:51:38] [Server thread/INFO]: davidahs592 joined the game
+[18:52:08] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:52:08] [Server thread/INFO]: davidahs592 left the game
+[18:53:09] [Server thread/INFO]: [onContentStop: Given [Wireless Crafting Terminal] * 1 to onContentStop]
+[18:54:17] [Server thread/INFO]: [onContentStop: Given [Basic Wireless Energy Crystal] * 64 to onContentStop]
+[18:55:52] [Server thread/WARN]: onContentStop moved wrongly!
+[18:55:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2047ms behind, skipping 40 tick(s)
+[18:55:59] [Server thread/WARN]: onContentStop moved too quickly! 9.840907411467242,-6.875,11.856071538676133
+[18:56:14] [Server thread/WARN]: onContentStop moved wrongly!
+[18:56:14] [Server thread/WARN]: onContentStop moved too quickly! -9.925571432919355,7.125,-12.29050870361607
+[18:56:19] [Server thread/INFO]: onContentStop lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:56:19] [Server thread/INFO]: onContentStop left the game

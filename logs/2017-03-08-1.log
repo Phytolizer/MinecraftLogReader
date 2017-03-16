@@ -1,0 +1,12 @@
+[11:47:19] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[11:48:13] [Server thread/INFO]: Loading properties
+[11:48:13] [Server thread/INFO]: Default game type: SURVIVAL
+[11:48:13] [Server thread/INFO]: Generating keypair
+[11:48:13] [Server thread/INFO]: Starting Minecraft server on *:7878
+[11:48:13] [Server thread/INFO]: Using default channel type
+[11:48:13] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[11:48:13] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
+[11:48:13] [Server thread/WARN]: Perhaps a server is already running on that port?
+[11:48:13] [Server thread/INFO]: Stopping server
+[11:48:13] [Server thread/INFO]: Saving worlds
+[11:48:13] [Server Shutdown Thread/INFO]: Stopping server

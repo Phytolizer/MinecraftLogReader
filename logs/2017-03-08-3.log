@@ -1,0 +1,1217 @@
+[11:52:23] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[11:53:25] [Server thread/INFO]: Loading properties
+[11:53:25] [Server thread/INFO]: Default game type: SURVIVAL
+[11:53:25] [Server thread/INFO]: Generating keypair
+[11:53:25] [Server thread/INFO]: Starting Minecraft server on *:7878
+[11:53:25] [Server thread/INFO]: Using default channel type
+[11:53:40] [Server thread/INFO]: Preparing level "world"
+[11:53:41] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[11:53:41] [Server thread/INFO]: Preparing start region for level 0
+[11:53:44] [Server thread/INFO]: Preparing spawn area: 9%
+[11:53:45] [Server thread/INFO]: Preparing spawn area: 86%
+[11:53:45] [Server thread/INFO]: Done (5.558s)! For help, type "help" or "?"
+[11:53:46] [Server thread/INFO]: FTBLib: Server reloaded in 717ms
+[11:54:09] [User Authenticator #1/INFO]: UUID of player CaptainSparcler is 098d58dd-1ccc-4ad0-9183-662bd64f0f16
+[11:54:10] [Server thread/INFO]: CaptainSparcler[/107.200.4.229:50588] logged in with entity id 252 at (157.5, 78.0, 246.5)
+[11:54:10] [Server thread/INFO]: CaptainSparcler joined the game
+[11:54:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4583ms behind, skipping 91 tick(s)
+[11:54:28] [User Authenticator #2/INFO]: UUID of player QuasarKnight is 25fdef64-d48e-41f0-86e1-b53aec7a4bf3
+[11:54:29] [Server thread/INFO]: QuasarKnight[/104.189.187.230:57921] logged in with entity id 2488 at (157.5, 72.0, 244.5)
+[11:54:29] [Server thread/INFO]: QuasarKnight joined the game
+[11:54:36] [User Authenticator #3/INFO]: UUID of player Creepini is e1cae796-a835-44ba-b79e-9a810d9cd1ea
+[11:54:37] [Server thread/INFO]: Creepini[/192.168.0.1:50419] logged in with entity id 3182 at (158.5, 72.0, 245.5)
+[11:54:37] [Server thread/INFO]: Creepini joined the game
+[11:54:57] [Server thread/INFO]: There are 3/20 players online:
+[11:54:57] [Server thread/INFO]: CaptainSparcler, QuasarKnight, Creepini
+[11:55:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22611ms behind, skipping 452 tick(s)
+[11:55:08] [Server thread/INFO]: Creepini has just earned the achievement [Taking Inventory]
+[11:55:10] [Server thread/INFO]: QuasarKnight has just earned the achievement [Taking Inventory]
+[11:55:11] [Server thread/INFO]: Creepini has just earned the achievement [Getting Educated]
+[11:55:25] [Server thread/INFO]: Creepini has just earned the achievement [Getting Wood]
+[11:55:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2092ms behind, skipping 41 tick(s)
+[11:55:25] [Server thread/INFO]: QuasarKnight has just earned the achievement [Getting Wood]
+[11:55:28] [Server thread/INFO]: Creepini has just earned the achievement [Benchmarking]
+[11:55:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2075ms behind, skipping 41 tick(s)
+[11:55:59] [Server thread/INFO]: CaptainSparcler has just earned the achievement [Sky of Beginning]
+[11:55:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5152ms behind, skipping 103 tick(s)
+[11:56:09] [Server thread/INFO]: Creepini has just earned the achievement [Sky of Beginning]
+[11:56:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3163ms behind, skipping 63 tick(s)
+[11:56:15] [Server thread/INFO]: CaptainSparcler has just earned the achievement [Taking Inventory]
+[11:56:19] [Server thread/INFO]: QuasarKnight has just earned the achievement [Getting Educated]
+[11:56:19] [Server thread/INFO]: CaptainSparcler has just earned the achievement [Getting Wood]
+[11:56:24] [Server thread/INFO]: Creepini has just earned the achievement [Time to Strike!]
+[11:56:34] [Server thread/INFO]: Creepini has just earned the achievement [Cow Tipper]
+[11:56:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5339ms behind, skipping 106 tick(s)
+[11:56:48] [Server thread/INFO]: Creepini has just earned the achievement [Time to Mine!]
+[11:57:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2794ms behind, skipping 55 tick(s)
+[11:57:02] [User Authenticator #4/INFO]: UUID of player onContentStop is a5a02fa8-538d-4d71-ab71-f8d847398cd8
+[11:57:03] [Server thread/INFO]: onContentStop[/192.168.0.1:50719] logged in with entity id 9609 at (156.5, 72.0, 244.5)
+[11:57:03] [Server thread/INFO]: onContentStop joined the game
+[11:57:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13232ms behind, skipping 264 tick(s)
+[11:57:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5557ms behind, skipping 111 tick(s)
+[11:57:46] [Server thread/INFO]: onContentStop has just earned the achievement [Taking Inventory]
+[11:57:48] [User Authenticator #5/INFO]: UUID of player DiamondKing504 is 509ad8ee-dd05-4ea6-bb86-5227fefa7be6
+[11:57:49] [Server thread/INFO]: DiamondKing504[/69.144.148.130:58788] logged in with entity id 11709 at (157.5, 72.0, 243.5)
+[11:57:49] [Server thread/INFO]: DiamondKing504 joined the game
+[11:57:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3535ms behind, skipping 70 tick(s)
+[11:58:14] [Server thread/INFO]: Could not op oncontstop
+[11:58:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2170ms behind, skipping 43 tick(s)
+[11:58:20] [Server thread/INFO]: <DiamondKing504> BRANDON
+[11:58:21] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:58:21] [Server thread/INFO]: Creepini has just earned the achievement [Getting an Upgrade]
+[11:58:25] [Server thread/INFO]: Creepini has just earned the achievement [Hot Topic]
+[11:58:27] [Server thread/INFO]: Opped oncontentstop
+[11:58:32] [Server thread/INFO]: <Creepini> yas
+[11:58:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3369ms behind, skipping 67 tick(s)
+[11:58:38] [Server thread/INFO]: <DiamondKing504> join gaming kingdom
+[11:58:40] [User Authenticator #6/INFO]: UUID of player Bucks2k12 is 6f02455c-53d9-405b-98c4-eec14f1be3de
+[11:58:41] [Server thread/INFO]: Bucks2k12[/68.35.217.155:62223] logged in with entity id 16220 at (158.5, 72.0, 242.5)
+[11:58:41] [Server thread/INFO]: Bucks2k12 joined the game
+[11:58:41] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Sky of Beginning]
+[11:58:42] [Server thread/INFO]: onContentStop has just earned the achievement [Getting Wood]
+[11:58:44] [Server thread/INFO]: QuasarKnight has just earned the achievement [Benchmarking]
+[11:58:58] [Server thread/INFO]: Bucks2k12 has just earned the achievement [Taking Inventory]
+[11:59:03] [Server thread/INFO]: <Creepini> worldborder to keep lag down? we getting a lot of people on
+[11:59:07] [Server thread/INFO]: <Creepini> not too small
+[11:59:09] [Server thread/INFO]: <Creepini> but still?
+[11:59:11] [Server thread/INFO]: <Creepini> or nah?
+[11:59:17] [Server thread/INFO]: [onContentStop: Set world border to 10000.0 blocks wide (from 60000000.0 blocks)]
+[11:59:18] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Taking Inventory]
+[11:59:19] [Server thread/INFO]: <onContentStop> 10000?
+[11:59:21] [Server thread/INFO]: <onContentStop> or more
+[11:59:23] [Server thread/INFO]: Bucks2k12 has just earned the achievement [Getting Wood]
+[11:59:24] [Server thread/INFO]: <Creepini> *Cough Cough* slime flinging
+[11:59:28] [Server thread/INFO]: <DiamondKing504> yeah
+[11:59:30] [Server thread/INFO]: [onContentStop: Opped Creepini]
+[11:59:33] [Server thread/INFO]: <onContentStop> you do it
+[11:59:36] [Server thread/INFO]: <Bucks2k12> im twat the matt btw
+[11:59:39] [Server thread/INFO]: [Creepini: Set world border center to 0.5,0.5]
+[11:59:54] [Server thread/INFO]: [Creepini: Set world border to 8000.0 blocks wide (from 10000.0 blocks)]
+[12:00:37] [Server thread/INFO]: QuasarKnight has just earned the achievement [Time to Mine!]
+[12:01:10] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Getting Wood]
+[12:01:28] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Benchmarking]
+[12:01:42] [Server thread/INFO]: Bucks2k12 has just earned the achievement [Benchmarking]
+[12:01:47] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Time to Mine!]
+[12:01:47] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Getting an Upgrade]
+[12:01:50] [Server thread/INFO]: Bucks2k12 has just earned the achievement [Time to Strike!]
+[12:01:58] [Server thread/INFO]: <onContentStop> brandon can you set up team colors?
+[12:02:07] [Server thread/INFO]: [Creepini: Added new objective 'Death' successfully]
+[12:02:11] [Server thread/INFO]: [Creepini: Added new objective 'Health' successfully]
+[12:02:16] [Server thread/INFO]: [Creepini: Added new team 'Jonark' successfully]
+[12:02:34] [Server thread/INFO]: [Creepini: Added new team 'CAT' successfully]
+[12:02:42] [Server thread/INFO]: <onContentStop> nvm
+[12:02:47] [Server thread/INFO]: <onContentStop> we have integrated teams
+[12:02:48] [Server thread/INFO]: [Creepini: Added 4 player(s) to team CAT: Creepini, DiamondKing504, CaptainSparcler and Bucks2k12]
+[12:02:53] [Server thread/INFO]: <Creepini> wat
+[12:02:54] [Server thread/INFO]: <Creepini> of
+[12:02:55] [Server thread/INFO]: <Creepini> oh
+[12:03:03] [Server thread/INFO]: <Creepini> integrated teams?
+[12:03:07] [Server thread/INFO]: <Creepini> ooh
+[12:03:10] [Server thread/INFO]: <Creepini> htat dumb thing
+[12:03:11] [Server thread/INFO]: <Creepini> screw that
+[12:03:12] [Server thread/INFO]: <onContentStop> yeah
+[12:03:14] [Server thread/INFO]: <onContentStop> no do it
+[12:03:21] [Server thread/INFO]: <Creepini> this is for colored names on scoreboard
+[12:03:24] [Server thread/INFO]: <Creepini> will do both
+[12:03:38] [Server thread/INFO]: [Creepini: Set option color for team CAT to gold]
+[12:03:53] [Server thread/INFO]: [Creepini: Set option collisionrule for team CAT to pushOwnTeam]
+[12:03:54] [Server thread/INFO]: QuasarKnight has just earned the achievement [Getting an Upgrade]
+[12:04:05] [Server thread/INFO]: QuasarKnight has just earned the achievement [Hot Topic]
+[12:04:07] [Server thread/INFO]: [Creepini: Set option friendlyfire for team CAT to false]
+[12:04:20] [Server thread/INFO]: [Creepini: Removed team Jonark]
+[12:06:30] [Server thread/INFO]: Bucks2k12 has just earned the achievement [Monster Hunter]
+[12:06:48] [Server thread/INFO]: onContentStop has just earned the achievement [Benchmarking]
+[12:07:11] [Server thread/INFO]: onContentStop has just earned the achievement [Time to Mine!]
+[12:07:11] [Server thread/INFO]: onContentStop has just earned the achievement [Getting an Upgrade]
+[12:07:18] [Server thread/INFO]: Creepini has just earned the achievement [Acquire Hardware]
+[12:07:49] [Server thread/INFO]: Creepini has just earned the achievement [Monster Hunter]
+[12:08:23] [User Authenticator #7/INFO]: UUID of player WTRXGamer is ab42184a-18dc-4fe0-9259-c74f9a829310
+[12:08:24] [Server thread/INFO]: WTRXGamer[/70.122.214.59:46084] logged in with entity id 49143 at (157.5, 71.0, 246.5)
+[12:08:24] [Server thread/INFO]: WTRXGamer joined the game
+[12:08:30] [Server thread/INFO]: <Creepini> welcome Weston :D
+[12:08:40] [Server thread/INFO]: [onContentStop: Teleported WTRXGamer to onContentStop]
+[12:08:43] [Server thread/INFO]: <onContentStop> one teleport only
+[12:08:47] [Server thread/INFO]: <onContentStop> we're done TPing now
+[12:09:02] [Server thread/INFO]: WTRXGamer has just earned the achievement [Taking Inventory]
+[12:09:03] [Server thread/INFO]: Creepini was slain by Ancient Golem
+[12:09:10] [Server thread/INFO]: <Creepini> those things are powerful
+[12:09:26] [Server thread/INFO]: CaptainSparcler was slain by Zombie
+[12:09:38] [Server thread/INFO]: WTRXGamer has just earned the achievement [Getting Educated]
+[12:10:17] [Server thread/INFO]: QuasarKnight has just earned the achievement [Time to Strike!]
+[12:10:28] [Server thread/INFO]: WTRXGamer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:10:28] [Server thread/INFO]: WTRXGamer left the game
+[12:10:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2043ms behind, skipping 40 tick(s)
+[12:10:34] [Server thread/INFO]: DiamondKing504 was slain by Ancient Golem
+[12:10:52] [Server thread/INFO]: [Creepini: Set the display objective in slot 'list' to 'Death']
+[12:10:57] [User Authenticator #8/INFO]: UUID of player WTRXGamer is ab42184a-18dc-4fe0-9259-c74f9a829310
+[12:10:59] [Server thread/INFO]: WTRXGamer[/70.122.214.59:46208] logged in with entity id 57184 at (103.30000001192093, 71.0, 312.69999998807907)
+[12:10:59] [Server thread/INFO]: WTRXGamer joined the game
+[12:11:06] [Server thread/INFO]: <onContentStop> make us a team too brandon
+[12:11:10] [Server thread/INFO]: <onContentStop> with da blue names
+[12:11:13] [Server thread/INFO]: [Creepini: Added new team 'Jonark' successfully]
+[12:11:21] [Server thread/INFO]: [Creepini: Added 3 player(s) to team Jonark: onContentStop, WTRXGamer and QuasarKnight]
+[12:11:32] [Server thread/INFO]: [Creepini: Set option color for team Jonark to blue]
+[12:11:37] [Server thread/INFO]: <Creepini> any other attributes?
+[12:11:51] [Server thread/INFO]: <Creepini> such as, NoPushTeamates, FriendlyFire, etc.
+[12:11:58] [Server thread/INFO]: <onContentStop> nopush is good
+[12:12:11] [Server thread/INFO]: [Creepini: Set option collisionrule for team Jonark to pushOwnTeam]
+[12:12:13] [Server thread/INFO]: <Creepini> done
+[12:12:55] [Server thread/INFO]: WTRXGamer has just earned the achievement [Getting Wood]
+[12:13:07] [Server thread/INFO]: CaptainSparcler was incinerated.
+[12:13:19] [Server thread/INFO]: QuasarKnight has just earned the achievement [Monster Hunter]
+[12:13:24] [Server thread/INFO]: <onContentStop> whats the team command
+[12:13:33] [Server thread/INFO]: <Creepini> ./scoreboard teams
+[12:13:44] [Server thread/INFO]: DiamondKing504 got revenge on Ancient Golem
+[12:13:44] [Server thread/INFO]: QuasarKnight was slain by Zombie
+[12:13:59] [Server thread/INFO]: [onContentStop: Set option color for team Jonark to red]
+[12:15:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2140ms behind, skipping 42 tick(s)
+[12:15:23] [Server thread/INFO]: onContentStop has just earned the achievement [Time to Strike!]
+[12:15:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15329ms behind, skipping 306 tick(s)
+[12:15:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2137ms behind, skipping 42 tick(s)
+[12:15:45] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Time to Strike!]
+[12:16:41] [Server thread/INFO]: <CaptainSparcler> hi
+[12:16:51] [Server thread/INFO]: <CaptainSparcler> fancy meeting you here
+[12:16:54] [Server thread/INFO]: <onContentStop> please leave
+[12:16:59] [Server thread/INFO]: <onContentStop> i will get a restraining order
+[12:17:00] [Server thread/INFO]: <DiamondKing504> xD
+[12:17:02] [Server thread/INFO]: <Creepini> lol
+[12:17:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3183ms behind, skipping 63 tick(s)
+[12:17:44] [Server thread/INFO]: onContentStop has just earned the achievement [Monster Hunter]
+[12:17:59] [Server thread/INFO]: <DiamondKing504> whats up with the server lag?
+[12:18:09] [Server thread/INFO]: WTRXGamer was slain by QuasarKnight using [getting owned]
+[12:18:14] [Server thread/INFO]: <Creepini> oh
+[12:18:15] [Server thread/INFO]: <Creepini> lol
+[12:18:16] [Server thread/INFO]: <onContentStop> it begins
+[12:18:19] [Server thread/INFO]: <Creepini> no TP
+[12:18:20] [Server thread/INFO]: <Creepini> xD
+[12:18:26] [Server thread/INFO]: <onContentStop> this is why we didnt disable ff
+[12:18:30] [Server thread/INFO]: <Creepini> :D
+[12:21:15] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Cow Tipper]
+[12:22:27] [Server thread/INFO]: WTRXGamer drowned
+[12:22:30] [Server thread/INFO]: <onContentStop> gg
+[12:22:32] [Server thread/INFO]: <CaptainSparcler> gg
+[12:22:53] [Server thread/INFO]: Creepini was shot by Skeleton
+[12:22:54] [Server thread/INFO]: <DiamondKing504> server laggggg
+[12:26:26] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Monster Hunter]
+[12:27:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2212ms behind, skipping 44 tick(s)
+[12:28:03] [Server thread/INFO]: DiamondKing504 was shot by Skeleton
+[12:28:08] [Server thread/INFO]: <QuasarKnight> RIP
+[12:28:19] [Server thread/INFO]: <DiamondKing504> server lag.
+[12:28:29] [Server thread/INFO]: <WTRXGamer> test
+[12:28:31] [Server thread/WARN]: CaptainSparcler moved wrongly!
+[12:28:32] [Server thread/INFO]: <onContentStop> get lagged on kid
+[12:28:48] [Server thread/INFO]: WTRXGamer was slain by Spider
+[12:30:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2269ms behind, skipping 45 tick(s)
+[12:30:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2046ms behind, skipping 40 tick(s)
+[12:30:44] [Server thread/INFO]: Creepini has just earned the achievement [DIAMONDS!]
+[12:30:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2743ms behind, skipping 54 tick(s)
+[12:30:53] [Server thread/INFO]: Creepini has just earned the achievement [Tech-Tree Start]
+[12:31:09] [Server thread/INFO]: Creepini has just earned the achievement [New Ore Miner]
+[12:31:54] [Server thread/INFO]: Bucks2k12 has just earned the achievement [Time to Mine!]
+[12:32:21] [Server thread/INFO]: Bucks2k12 has just earned the achievement [Getting an Upgrade]
+[12:32:47] [Server thread/INFO]: WTRXGamer was shot by Skeleton
+[12:35:44] [Server thread/INFO]: onContentStop has just earned the achievement [Sky of Beginning]
+[12:36:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3096ms behind, skipping 61 tick(s)
+[12:36:57] [Server thread/INFO]: QuasarKnight has just earned the achievement [Cow Tipper]
+[12:37:32] [Server thread/INFO]: WTRXGamer has just earned the achievement [Benchmarking]
+[12:39:40] [User Authenticator #9/INFO]: UUID of player Rapter2000 is 26babd3e-00c9-4aac-b086-252ba82f1405
+[12:39:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2173ms behind, skipping 43 tick(s)
+[12:39:42] [Server thread/INFO]: Rapter2000[/71.191.153.113:61658] logged in with entity id 164014 at (155.5, 72.0, 245.5)
+[12:39:42] [Server thread/INFO]: Rapter2000 joined the game
+[12:39:47] [Server thread/INFO]: <Creepini> who is dat
+[12:39:52] [Server thread/INFO]: <Creepini> with you all?
+[12:39:58] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 5.7555795626778945,0.0,8.622753914144255
+[12:39:58] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 5.954439333405617,0.0,8.968833628056473
+[12:39:58] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 6.154654032834571,0.0,9.314197625053339
+[12:39:58] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 9.979414099909349,1.1084466677857563E-12,1.7508299818583737
+[12:39:58] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 10.308997176880865,1.1013412404281553E-12,1.9344733833040664
+[12:39:58] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 6.355781848616942,0.0,9.659107556055574
+[12:40:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5645ms behind, skipping 112 tick(s)
+[12:40:01] [Server thread/INFO]: [Creepini: Set option friendlyfire for team CAT to true]
+[12:40:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2530ms behind, skipping 50 tick(s)
+[12:40:40] [Server thread/INFO]: onContentStop has just earned the achievement [Cow Tipper]
+[12:40:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5404ms behind, skipping 108 tick(s)
+[12:40:52] [Server thread/WARN]: WTRXGamer moved too quickly! -5.5501058225358975,-0.5061351021062137,8.537586156959378
+[12:41:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6512ms behind, skipping 130 tick(s)
+[12:41:51] [Server thread/INFO]: Rapter2000 has just earned the achievement [Taking Inventory]
+[12:41:58] [Server thread/INFO]: Creepini has just earned the achievement [We Need to Go Deeper]
+[12:42:01] [Server thread/WARN]: WTRXGamer moved too quickly! 2.430290522371081,-0.2712241076924897,9.90003565427753
+[12:42:01] [Server thread/WARN]: onContentStop moved too quickly! -1.1253359875522335,1.0013359791121417,9.970895186967027
+[12:42:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6675ms behind, skipping 133 tick(s)
+[12:42:05] [Server thread/WARN]: Creepini moved too quickly! -351.19999998807907,10.0,-159.0
+[12:42:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8637ms behind, skipping 172 tick(s)
+[12:42:34] [Server thread/WARN]: Rapter2000 moved too quickly! 7.352958782637245,-1.2247629905309907,6.977081518735417
+[12:42:34] [Server thread/WARN]: onContentStop moved too quickly! 1.591658658316078,-0.7684762024129839,9.891779048552962
+[12:42:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2302ms behind, skipping 46 tick(s)
+[12:42:50] [Server thread/WARN]: WTRXGamer moved too quickly! 7.81152455129606,0.5800000131130219,6.63743009652967
+[12:42:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4911ms behind, skipping 98 tick(s)
+[12:43:11] [Server thread/INFO]: <Creepini> NETHER TIME BOIS
+[12:43:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2353ms behind, skipping 47 tick(s)
+[12:44:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3139ms behind, skipping 62 tick(s)
+[12:44:23] [Server thread/INFO]: onContentStop has just earned the achievement [Hot Topic]
+[12:44:43] [Server thread/INFO]: onContentStop has just earned the achievement [Acquire Hardware]
+[12:44:57] [Server thread/INFO]: [Creepini: Added 1 player(s) to team CAT: Rapter2000]
+[12:47:09] [Server thread/WARN]: onContentStop moved wrongly!
+[12:47:09] [Server thread/WARN]: Rapter2000 moved wrongly!
+[12:47:14] [Server thread/INFO]: <DiamondKing504> wtf
+[12:47:18] [Server thread/INFO]: <DiamondKing504> 25%>
+[12:47:29] [Server thread/INFO]: <Creepini> wat
+[12:47:34] [Server thread/INFO]: <onContentStop> 25%
+[12:47:36] [Server thread/INFO]: <DiamondKing504> only need 25% for sleep?
+[12:47:41] [Server thread/INFO]: <onContentStop> FTB packs have custom config
+[12:47:44] [Server thread/INFO]: <DiamondKing504> dang
+[12:48:20] [Server thread/INFO]: WTRXGamer has just earned the achievement [Shocking]
+[12:49:54] [Server thread/INFO]: WTRXGamer has just earned the achievement [Time to Mine!]
+[12:49:54] [Server thread/INFO]: WTRXGamer has just earned the achievement [Getting an Upgrade]
+[12:50:06] [Server thread/INFO]: [Creepini: Set the display objective in slot 'list' to 'Health']
+[12:51:58] [Server thread/WARN]: Boat moved wrongly!
+[12:51:58] [Server thread/WARN]: Boat moved wrongly!
+[12:51:58] [Server thread/WARN]: Boat moved wrongly!
+[12:52:14] [Server thread/WARN]: WTRXGamer moved wrongly!
+[12:52:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2880ms behind, skipping 57 tick(s)
+[12:52:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17383ms behind, skipping 347 tick(s)
+[12:52:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3730ms behind, skipping 74 tick(s)
+[12:53:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 31354ms behind, skipping 627 tick(s)
+[12:53:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5969ms behind, skipping 119 tick(s)
+[12:53:58] [Server thread/INFO]: <DiamondKing504> SO MUCH LAG
+[12:54:05] [Server thread/INFO]: <DiamondKing504> WHYYY
+[12:54:08] [Server thread/INFO]: <QuasarKnight> SO MANY COMPLAINTS
+[12:54:11] [Server thread/INFO]: <onContentStop> because one computer
+[12:54:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11930ms behind, skipping 238 tick(s)
+[12:54:42] [Server thread/WARN]: WTRXGamer moved too quickly! -2.600314125740738,1.9139059206844848,9.75059090790046
+[12:54:42] [Server thread/WARN]: QuasarKnight moved too quickly! 1.0858571966655859,0.2712241076924897,9.967108067150548
+[12:54:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2880ms behind, skipping 57 tick(s)
+[12:54:48] [Server thread/INFO]: <Bucks2k12> one computer isnt the problem, the problem is one potato Kappa
+[12:55:03] [Server thread/INFO]: <DiamondKing504> potato is in my blood
+[12:55:29] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Hot Topic]
+[12:55:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2622ms behind, skipping 52 tick(s)
+[12:57:16] [Server thread/WARN]: Tried to over-fill a container
+[12:57:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2267ms behind, skipping 45 tick(s)
+[12:57:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3964ms behind, skipping 79 tick(s)
+[12:58:02] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -4.5436531981415555,0.0,9.35482678839253
+[12:58:02] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -4.465866324847411,0.0,9.335646241406721
+[12:58:02] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -4.718550432298969,0.0,9.714563151476796
+[12:58:02] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -4.637784720061632,0.0,9.696118909038432
+[12:58:02] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -4.893450873932238,0.0,10.074298043932686
+[12:58:02] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -4.811048459604535,0.0,10.055989648740706
+[12:58:02] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -5.068354202293676,0.0,10.434031612823219
+[12:58:02] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -4.985672367074926,0.0,10.415240139102934
+[12:58:02] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -5.2432601287104035,0.0,10.79376399050534
+[12:58:02] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -5.161652535617463,0.0,10.77386228765954
+[12:58:02] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -5.418168393376845,0.0,11.153495296099209
+[12:58:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8707ms behind, skipping 174 tick(s)
+[12:58:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8371ms behind, skipping 167 tick(s)
+[12:58:57] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 10.232155612636916,0.0,-0.21265452872876267
+[12:58:57] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 10.630589093967046,0.0,-0.2070369950042732
+[12:58:57] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 11.029131972639107,0.0,-0.20004149012083872
+[12:58:57] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 11.427751944376496,0.0,-0.19140754859063236
+[12:58:57] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 11.826418828919714,0.0,-0.1809430710113702
+[12:58:57] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 12.225104916418331,0.0,-0.16850979729269966
+[12:58:57] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 12.623837161301253,0.0,-0.15471393081770657
+[12:58:57] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 13.022666320544431,0.0,-0.14075638219082975
+[12:58:57] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 13.421608250749841,0.0,-0.1276116967192138
+[12:59:43] [Server thread/WARN]: onContentStop moved wrongly!
+[12:59:43] [Server thread/WARN]: WTRXGamer moved wrongly!
+[13:00:00] [Server thread/INFO]: QuasarKnight was incinerated by Ancient Golem.
+[13:00:20] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:00:28] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -4.847892764781022,0.0,9.17036801645736
+[13:00:28] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -4.626099306141896,0.0,9.314451352504875
+[13:00:28] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -5.0389682854205375,0.0,9.520883992881409
+[13:00:28] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -4.804023531501116,0.0,9.672701062200304
+[13:00:28] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -5.226886055639056,0.0,9.873030831213782
+[13:00:28] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -4.981947698390059,0.0,10.030950806499277
+[13:00:28] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -5.411552913330638,0.0,10.226820556220446
+[13:00:28] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -5.1598718126557515,0.0,10.389200581941168
+[13:00:28] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -5.592925681596398,0.0,10.582242003527426
+[13:00:28] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -5.337795879560531,0.0,10.747450385411867
+[13:00:28] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -5.770999612780315,0.0,10.939267232628936
+[13:00:28] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -5.515719903840477,0.0,11.105700214108765
+[13:00:28] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -5.9458013883605645,0.0,11.297855555159003
+[13:00:28] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -5.693643889758164,0.0,11.463950065508925
+[13:00:28] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -6.117386307586003,0.0,11.65795558081345
+[13:00:28] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -5.8715678411497265,0.0,11.822199937342248
+[13:00:28] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -6.285832120434861,0.0,12.019508332728492
+[13:00:28] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -6.049491761467834,0.0,12.180449827565099
+[13:00:28] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -6.451229806003539,0.0,12.382451209885403
+[13:00:28] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -6.227415653819776,0.0,12.538699734338934
+[13:00:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4083ms behind, skipping 81 tick(s)
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -7.072487700540023,0.0,7.580577928377352
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -7.340579801598324,0.0,7.8761921280593015
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -7.605014003770293,0.0,8.17486416470183
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -7.865643536202242,0.0,8.476646050042746
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -8.122381872880396,0.0,8.781542573370189
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -8.3751950392151,0.0,9.089520188643746
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -8.624091135903086,0.0,9.400516726534988
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -8.869113842206957,0.0,9.714447676575219
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -9.110336365878311,0.0,10.031211584040193
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -9.347855828588308,0.0,10.3506946799057
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -5.7284222801533815,0.0,8.680001668634304
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -5.948635322501218,0.0,9.013925932988514
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -6.168845372497117,0.0,9.347852278460323
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -6.389052729376431,0.0,9.681780496938245
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -6.6092576624508865,0.0,10.015710401120941
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -6.829460414100936,0.0,10.34964182243857
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -7.04966120246911,0.0,10.683574609176958
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -7.269860223883711,0.0,11.017508624794573
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -7.490057655040118,0.0,11.35144374640322
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -7.710253654964163,0.0,11.685379863403796
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -9.581784750158135,0.0,10.672776780066215
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -7.930448366779046,0.0,12.019316876256653
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -9.812246554588,0.0,10.997334422786935
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -8.150641919295822,0.0,12.353254695377018
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -10.039378100621434,0.0,11.324239769682208
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -8.370834428444255,0.0,12.687193240138186
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -10.263321925183504,0.0,11.65336527530917
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -8.591025998561236,0.0,13.021132437975666
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -10.48422587113987,0.0,11.984583978249248
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -8.811216723549933,0.0,13.355072223582283
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -10.702239354815788,0.0,12.317771573570553
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -9.031406687923209,0.0,13.689012538180577
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -10.917513339035509,0.0,12.652806374423562
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -9.25159596774256,0.0,14.022953328871608
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -11.130196909529673,0.0,12.989571058163165
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -9.471784631463493,0.0,14.356894548046512
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -11.34043415644976,0.0,13.327954178255368
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -9.691972740695746,0.0,14.690836152856264
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -11.548368117957239,0.0,13.667847877933127
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -9.912160350888257,0.0,15.024778104737834
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -11.754137556875435,0.0,14.009149442294074
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -10.132347511945113,0.0,15.35872036898354
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -11.957874031736878,0.0,14.351762631858037
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -12.159706042617017,0.0,14.69559531766481
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -10.352534268779777,0.0,15.692662914357243
+[13:00:34] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! -10.572720661814515,0.0,16.02660571274646
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -12.359755967455158,0.0,15.040560903065852
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -5.954015891579957,0.0,8.445659465341578
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -5.957378666516547,0.0,8.443432082306572
+[13:00:34] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! -6.155811469629384,0.0,8.789309461064477
+[13:01:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2117ms behind, skipping 42 tick(s)
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 3.1162900474785147,0.0,9.917499033089825
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 4.295683907592434,0.0,9.462067257899434
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 3.2321061436119862,0.0,10.300318778598012
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 4.455372693854088,0.0,9.828720701384555
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 3.3477941134185585,0.0,10.683180598484341
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 4.614894565735312,0.0,10.195453673200973
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 3.4640300742353247,0.0,11.065875707267423
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 4.774262690553428,0.0,10.562259736706437
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 3.5820132658335524,0.0,11.44799909555195
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 4.933488920756531,0.0,10.929133098923558
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 3.7033352444332195,0.0,11.828933918627627
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 5.092587445809386,0.0,11.296067029979895
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 3.8292205477774814,0.0,12.20812278109588
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 5.2515675121055665,0.0,11.663056985457843
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 3.9605907778732217,0.0,12.585075046519705
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 5.410440965523549,0.0,12.030097362913693
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 4.098118051907136,0.0,12.959369329465972
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 5.569214943228985,0.0,12.397184632616245
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 4.2422623056594375,0.0,13.330657135325964
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 5.728538252142016,0.0,12.76403298375817
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 4.393314218915975,0.0,13.698657400349475
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 5.889553099792693,0.0,13.130103003329623
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 4.551426315801109,0.0,14.06315258722816
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 6.05315300485222,0.0,13.494931053561686
+[13:01:14] [Server thread/WARN]: QuasarKnight moved too quickly! -4.431117388953595,1.1661092609382138,8.948737030265875
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 4.7160614861711565,0.0,14.424380130123154
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 6.220022027018786,0.0,13.858126924706994
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 4.886142482382979,0.0,14.782948920921172
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 6.390669487180844,0.0,14.219369386786639
+[13:01:14] [Server thread/WARN]: Boat (vehicle of onContentStop) moved too quickly! 5.060735022829817,0.0,15.139376776278368
+[13:01:14] [Server thread/WARN]: Boat (vehicle of WTRXGamer) moved too quickly! 6.56545735057432,0.0,14.578402245767393
+[13:03:36] [Server thread/INFO]: WTRXGamer has just earned the achievement [Time to Farm!]
+[13:08:58] [Server thread/INFO]: Bucks2k12 was slain by DiamondKing504
+[13:09:33] [Server thread/INFO]: Bucks2k12 was slain by Rapter2000
+[13:10:41] [Server thread/INFO]: <WTRXGamer> SLEEP
+[13:10:43] [Server thread/WARN]: onContentStop moved wrongly!
+[13:10:43] [Server thread/WARN]: WTRXGamer moved wrongly!
+[13:10:50] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Acquire Hardware]
+[13:15:47] [Server thread/INFO]: Bucks2k12 has just earned the achievement [New Ore Miner]
+[13:17:35] [Server thread/INFO]: DiamondKing504 has just earned the achievement [New Ore Miner]
+[13:21:40] [Server thread/WARN]: onContentStop moved wrongly!
+[13:21:40] [Server thread/WARN]: QuasarKnight moved wrongly!
+[13:21:40] [Server thread/WARN]: WTRXGamer moved wrongly!
+[13:27:27] [Server thread/INFO]: DiamondKing504 has just earned the achievement [Shocking]
+[13:27:44] [Server thread/INFO]: onContentStop has just earned the achievement [Shocking]
+[13:29:46] [Server thread/INFO]: Creepini has just earned the achievement [Shocking]
+[13:31:11] [Server thread/INFO]: CaptainSparcler has just earned the achievement [Benchmarking]
+[13:32:39] [Server thread/INFO]: WTRXGamer lost connection: TextComponent{text='disconnect.spam', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:32:39] [Server thread/INFO]: WTRXGamer left the game
+[13:32:50] [Server thread/WARN]: onContentStop moved wrongly!
+[13:32:50] [Server thread/WARN]: Creepini moved wrongly!
+[13:32:50] [User Authenticator #10/INFO]: UUID of player WTRXGamer is ab42184a-18dc-4fe0-9259-c74f9a829310
+[13:32:52] [Server thread/INFO]: WTRXGamer[/70.122.214.59:46796] logged in with entity id 338232 at (693.5, 66.0999984741211, 3216.5)
+[13:32:52] [Server thread/INFO]: WTRXGamer joined the game
+[13:36:55] [Server thread/INFO]: Creepini has just earned the achievement [Knowledge Bringer!]
+[13:39:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2068ms behind, skipping 41 tick(s)
+[13:40:27] [Server thread/WARN]: WTRXGamer moved wrongly!
+[13:43:56] [Server thread/WARN]: onContentStop moved wrongly!
+[13:43:56] [Server thread/WARN]: WTRXGamer moved wrongly!
+[13:48:33] [Server thread/INFO]: Bucks2k12 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:48:33] [Server thread/INFO]: Bucks2k12 left the game
+[13:53:40] [Server thread/INFO]: Server Backup started!
+[13:53:40] [Server thread/INFO]: Turned off world auto-saving
+[13:53:40] [Server thread/INFO]: Saving...
+[13:53:40] [Server thread/INFO]: Saved the world
+[13:53:43] [Thread-56/INFO]: Server backup done in 00:00:03! (79.0MB)
+[13:53:43] [Server thread/INFO]: Turned on world auto-saving
+[13:53:44] [Server thread/INFO]: <DiamondKing504> bro
+[13:53:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2582ms behind, skipping 51 tick(s)
+[13:53:51] [Server thread/INFO]: <DiamondKing504> 3 seconds?
+[13:53:57] [Server thread/INFO]: <DiamondKing504> lel
+[13:53:58] [Server thread/INFO]: <onContentStop> server is not happy
+[13:54:08] [Server thread/INFO]: <DiamondKing504> about what>
+[13:54:11] [Server thread/INFO]: <onContentStop> 7 players
+[13:54:23] [Server thread/INFO]: <DiamondKing504> dang
+[13:54:28] [Server thread/INFO]: <onContentStop> it does well as long as you dont slime sling around
+[13:54:33] [Server thread/INFO]: <DiamondKing504> lel
+[13:54:55] [Server thread/INFO]: <onContentStop> z
+[13:54:59] [Server thread/INFO]: <WTRXGamer> zzz
+[13:55:00] [Server thread/INFO]: <onContentStop> z
+[13:55:00] [Server thread/INFO]: <onContentStop> z
+[13:55:00] [Server thread/INFO]: <onContentStop> zz
+[13:55:01] [Server thread/INFO]: <onContentStop> z
+[13:55:01] [Server thread/INFO]: <onContentStop> z
+[13:55:01] [Server thread/INFO]: <onContentStop> z
+[13:55:01] [Server thread/INFO]: <onContentStop> zz
+[13:55:01] [Server thread/INFO]: <onContentStop> z
+[13:55:03] [Server thread/INFO]: <WTRXGamer> Kyle is a weeb
+[13:55:04] [Server thread/WARN]: onContentStop moved wrongly!
+[13:55:04] [Server thread/WARN]: WTRXGamer moved wrongly!
+[13:56:33] [User Authenticator #11/INFO]: UUID of player Bucks2k12 is 6f02455c-53d9-405b-98c4-eec14f1be3de
+[13:56:35] [Server thread/INFO]: Bucks2k12[/68.35.217.155:62823] logged in with entity id 400426 at (715.8918228387814, 67.875, 534.6999999880791)
+[13:56:35] [Server thread/INFO]: Bucks2k12 joined the game
+[13:56:52] [Server thread/INFO]: <Rapter2000> t
+[14:06:38] [Server thread/INFO]: <WTRXGamer> Kyle is a weeb
+[14:06:39] [Server thread/WARN]: onContentStop moved wrongly!
+[14:06:39] [Server thread/WARN]: WTRXGamer moved wrongly!
+[14:09:24] [Server thread/INFO]: QuasarKnight has just earned the achievement [Acquire Hardware]
+[14:09:25] [Server thread/INFO]: <CaptainSparcler> onContentStop
+[14:09:34] [Server thread/INFO]: <CaptainSparcler> why no agricraft
+[14:09:44] [Server thread/INFO]: <onContentStop> um
+[14:09:48] [Server thread/INFO]: <onContentStop> there is agricrarft
+[14:09:49] [Server thread/INFO]: <onContentStop> dummy
+[14:09:59] [Server thread/INFO]: <Bucks2k12> he is quite dumb tbh
+[14:10:02] [Server thread/INFO]: <CaptainSparcler> XD
+[14:10:02] [Server thread/INFO]: <DiamondKing504> lel
+[14:10:06] [Server thread/INFO]: <CaptainSparcler> derp
+[14:10:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2820ms behind, skipping 56 tick(s)
+[14:10:27] [Server thread/INFO]: CaptainSparcler has just earned the achievement [Time to Mine!]
+[14:10:27] [Server thread/INFO]: CaptainSparcler has just earned the achievement [Getting an Upgrade]
+[14:11:11] [Server thread/INFO]: <onContentStop> rad is joining
+[14:11:15] [Server thread/INFO]: <DiamondKing504> dang
+[14:11:15] [Server thread/INFO]: <onContentStop> are we making 3 factions?
+[14:11:21] [Server thread/INFO]: <DiamondKing504> sure
+[14:11:25] [Server thread/INFO]: <Bucks2k12> 3 fascists*
+[14:11:38] [Server thread/INFO]: <onContentStop> so 2 of you guys can split to him
+[14:11:42] [Server thread/INFO]: <onContentStop> and you have 3 teams of 3
+[14:11:45] [Server thread/INFO]: CaptainSparcler has just earned the achievement [Tech-Tree Start]
+[14:11:47] [Server thread/INFO]: <Creepini> Jonah
+[14:11:48] [Server thread/INFO]: <Creepini> ?
+[14:11:54] [Server thread/INFO]: <onContentStop> no rad
+[14:12:06] [Server thread/INFO]: <DiamondKing504> kyle
+[14:12:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2803ms behind, skipping 56 tick(s)
+[14:12:11] [Server thread/INFO]: <Creepini> we all have houses by each other lol
+[14:12:17] [Server thread/INFO]: <DiamondKing504> everyone already has their bases set up in our faction
+[14:12:19] [Server thread/INFO]: <Creepini> Also, I ahve coffee supply for everyone :D
+[14:12:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6194ms behind, skipping 123 tick(s)
+[14:12:26] [Server thread/INFO]: <Creepini> Thanks Sean for the idea <3
+[14:12:30] [Server thread/WARN]: WTRXGamer moved too quickly! -10.041588465850737,-0.04353562014750878,-1.5413097123214357
+[14:12:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7575ms behind, skipping 151 tick(s)
+[14:12:53] [Server thread/INFO]: <QuasarKnight> No problem homie you dont know the secrets of gods coffee are
+[14:13:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6443ms behind, skipping 128 tick(s)
+[14:13:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6782ms behind, skipping 135 tick(s)
+[14:13:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17368ms behind, skipping 347 tick(s)
+[14:13:48] [Server thread/INFO]: DiamondKing504 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:13:48] [Server thread/INFO]: DiamondKing504 left the game
+[14:13:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4693ms behind, skipping 93 tick(s)
+[14:14:19] [Server thread/WARN]: Tried to over-fill a container
+[14:14:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 28069ms behind, skipping 561 tick(s)
+[14:14:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3840ms behind, skipping 76 tick(s)
+[14:15:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11097ms behind, skipping 221 tick(s)
+[14:15:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4880ms behind, skipping 97 tick(s)
+[14:15:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11834ms behind, skipping 236 tick(s)
+[14:15:54] [Server thread/INFO]: QuasarKnight lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:15:54] [Server thread/INFO]: QuasarKnight left the game
+[14:16:13] [Server thread/INFO]: Bucks2k12 has just earned the achievement [Cow Tipper]
+[14:16:40] [User Authenticator #12/INFO]: UUID of player radflag622 is 7d9670e6-bc2f-4943-a6ee-410af51e9cc3
+[14:16:41] [Server thread/INFO]: radflag622[/208.102.195.29:63985] logged in with entity id 453651 at (156.5, 72.0, 243.5)
+[14:16:41] [Server thread/INFO]: radflag622 joined the game
+[14:16:45] [Server thread/INFO]: <Creepini> WELCOME
+[14:16:47] [Server thread/INFO]: <Creepini> :D
+[14:16:55] [Server thread/INFO]: <Bucks2k12> whale cum
+[14:16:57] [Server thread/INFO]: <Bucks2k12> to sea world
+[14:17:48] [Server thread/WARN]: radflag622 moved too quickly! -7.139151969423978,1.0,-6.95053647926224
+[14:17:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3341ms behind, skipping 66 tick(s)
+[14:18:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3833ms behind, skipping 76 tick(s)
+[14:18:10] [Server thread/WARN]: radflag622 moved too quickly! -5.3945764254283155,2.0,-8.402541126705911
+[14:18:10] [Server thread/WARN]: Bucks2k12 moved too quickly! 6.4539256330317585,-0.7531999805212024,-7.831465839232351
+[14:18:12] [Server thread/WARN]: Bucks2k12 moved too quickly! 7.236542874864881,1.0,-7.035473094053373
+[14:18:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6782ms behind, skipping 135 tick(s)
+[14:18:38] [Server thread/WARN]: radflag622 moved too quickly! -9.40331574549461,-1.0,-3.6599706693621954
+[14:18:47] [Server thread/WARN]: Rapter2000 moved too quickly! -3.036557396544822,-0.7967356006687112,9.905185396050001
+[14:19:14] [Server thread/INFO]: radflag622 has just earned the achievement [Taking Inventory]
+[14:19:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2433ms behind, skipping 48 tick(s)
+[14:19:22] [Server thread/INFO]: <Creepini> which team is RAD?
+[14:19:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2466ms behind, skipping 49 tick(s)
+[14:19:43] [Server thread/INFO]: <radflag622> which ever team wants me I guess
+[14:19:47] [Server thread/INFO]: onContentStop was shot by Skeleton
+[14:19:52] [Server thread/INFO]: <Creepini> rip Kyle
+[14:20:03] [Server thread/INFO]: <Creepini> we got coffee and metal
+[14:20:04] [Server thread/INFO]: <Creepini> :D
+[14:20:06] [Server thread/WARN]: Rapter2000 moved too quickly! -0.9024769845196943,-0.7539862017387549,-10.066629211567829
+[14:20:09] [Server thread/INFO]: <Creepini> thats about ti
+[14:20:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2601ms behind, skipping 52 tick(s)
+[14:20:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3047ms behind, skipping 60 tick(s)
+[14:20:38] [Server thread/INFO]: <onContentStop> z
+[14:20:39] [Server thread/INFO]: <onContentStop> z
+[14:20:39] [Server thread/INFO]: <onContentStop> z
+[14:20:39] [Server thread/INFO]: <onContentStop> z
+[14:20:39] [Server thread/INFO]: <onContentStop> z
+[14:20:39] [Server thread/INFO]: <onContentStop> z
+[14:20:39] [Server thread/INFO]: <onContentStop> z
+[14:20:45] [Server thread/INFO]: <onContentStop> z
+[14:20:47] [Server thread/INFO]: <onContentStop> ZEE
+[14:20:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5740ms behind, skipping 114 tick(s)
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -9.944143514906727,0.0,2.345815303606628
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -10.339797025796997,0.0,2.389383776527552
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -10.735789383156316,0.0,2.4313620256763215
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -11.132089075339763,0.0,2.47187464060994
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -11.528667708339754,0.0,2.5110337498310855
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -11.92549944815346,0.0,2.548944093465707
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -12.322560764782338,0.0,2.585703762333651
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -12.719830213007299,0.0,2.6214048642764283
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -13.117288477230431,0.0,2.6561302951851076
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -13.514917916369086,0.0,2.689958487232616
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -13.912702396404256,0.0,2.7229638564102743
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -14.310627392993865,0.0,2.755213376409756
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -14.708679826779871,0.0,2.786767323319282
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -15.106847922615088,0.0,2.817679944918382
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -15.50512083327294,0.0,2.84800389171005
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -15.903488557831224,0.0,2.8777903761832704
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -16.301942330153224,0.0,2.9070816620737787
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -16.700474022297612,0.0,2.9359196140129598
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -17.099076315392267,0.0,2.964341910400776
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -17.497693612533112,0.0,2.9930786908464597
+[14:21:02] [Server thread/WARN]: WTRXGamer moved too quickly! -0.7559820852577559,-0.08000001311302185,10.065921412614443
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -17.896270214066817,0.0,3.022721243692331
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -18.294753390053756,0.0,3.0537360015060813
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -18.69309488261206,0.0,3.0864848059983387
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -19.09125161727752,0.0,3.1212431392306144
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -19.489185773256622,0.0,3.158216505857922
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -19.886865554461338,0.0,3.1975475668440367
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -20.284265130929725,0.0,3.239326348891268
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -20.68136434023768,0.0,3.283599413368961
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -21.078020525825877,0.0,3.3310681601692522
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -21.47394896498713,0.0,3.382946515314643
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -21.868685711181797,0.0,3.440833057493137
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -22.26177556102607,0.0,3.5059361029376532
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -22.652794101687732,0.0,3.579135513693359
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -23.04135952554043,0.0,3.6610421248533385
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -23.42714059977061,0.0,3.7520437924583803
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -23.809859733752774,0.0,3.852346410991345
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -24.18929413036244,0.0,3.962006826296374
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -24.565272325731712,0.0,4.0809651971569565
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -24.93767063544601,0.0,4.209070052697939
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -25.306410276494944,0.0,4.3460969920967045
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -25.671453547683768,0.0,4.4917650654253976
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -26.03279494190292,0.0,4.645757348350571
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -26.390460865972955,0.0,4.807726331438971
+[14:21:02] [Server thread/WARN]: radflag622 moved too quickly! -9.496830819273328,3.0,-1.511357397116214
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -26.74450219124401,0.0,4.977307899357015
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -17.54612818172177,0.0,2.853600652931277
+[14:21:02] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -17.893156519651484,0.0,3.037277800659922
+[14:21:02] [User Authenticator #13/INFO]: UUID of player QuasarKnight is 25fdef64-d48e-41f0-86e1-b53aec7a4bf3
+[14:21:03] [Server thread/INFO]: QuasarKnight[/104.189.187.230:58431] logged in with entity id 475316 at (729.3000000119209, 24.0, 3211.463367966807)
+[14:21:03] [Server thread/INFO]: QuasarKnight joined the game
+[14:21:03] [Server thread/INFO]: <Creepini> z
+[14:21:04] [Server thread/INFO]: <Creepini> z
+[14:21:07] [Server thread/INFO]: <Creepini> I got ya
+[14:21:08] [Server thread/WARN]: Creepini moved wrongly!
+[14:21:08] [Server thread/WARN]: onContentStop moved wrongly!
+[14:21:08] [Server thread/WARN]: WTRXGamer moved wrongly!
+[14:21:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8526ms behind, skipping 170 tick(s)
+[14:21:17] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -10.053664451473878,0.0,2.415200926909961
+[14:21:17] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -10.429102321033042,0.0,2.546680525425927
+[14:21:17] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -10.805781751713312,0.0,2.6747945953967474
+[14:21:17] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -11.183826348980347,0.0,2.798838852961012
+[14:21:17] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -11.563298634678176,0.0,2.918278533053808
+[14:21:17] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -11.944215621355852,0.0,3.032722267255508
+[14:21:17] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -12.326560593986414,0.0,3.1419017221918466
+[14:21:17] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -12.710293095115503,0.0,3.245649040767944
+[14:21:17] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -13.095356194136457,0.0,3.3438799884326045
+[14:21:20] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -10.326105928925017,0.0,-0.9717208460145912
+[14:21:20] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -10.696314351775982,0.0,-1.1075969317859062
+[14:21:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5243ms behind, skipping 104 tick(s)
+[14:21:30] [Server thread/INFO]: <Creepini> teams claiming stops others from raiding our base? - from Rad
+[14:21:35] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! 0.03940000639727259,0.0,10.124352311578036
+[14:21:36] [Server thread/INFO]: <onContentStop> yes
+[14:21:39] [Server thread/INFO]: [Creepini: Teleported radflag622 to Creepini]
+[14:21:40] [Server thread/INFO]: <Creepini> ok
+[14:21:48] [Server thread/INFO]: [Creepini: Added 1 player(s) to team CAT: Rapter2000]
+[14:21:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4732ms behind, skipping 94 tick(s)
+[14:21:51] [Server thread/INFO]: [Creepini: Added 1 player(s) to team CAT: Rad]
+[14:21:52] [Server thread/INFO]: [Creepini: Added 1 player(s) to team CAT: radflag622]
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -7.012286364796864,0.0,-7.6803192634166635
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -7.281964957070159,0.0,-7.975739724828372
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -7.551643008002998,0.0,-8.271160702126622
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -7.821320571729416,0.0,-8.566582143722712
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -8.090997696970135,0.0,-8.862004003186826
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -8.3606744275736,0.0,-9.157426238732228
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -8.630350803003694,0.0,-9.452848812750744
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -8.900026858777665,0.0,-9.748271691394962
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -9.16970262686118,0.0,-10.043694844202378
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -9.439378136023265,0.0,-10.33911824375673
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -9.709053412156095,0.0,-10.634541865383198
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -9.978728478562516,0.0,-10.929965686874652
+[14:21:56] [Server thread/WARN]: Boat (vehicle of Bucks2k12) moved too quickly! -10.248403356215249,0.0,-11.225389688244604
+[14:22:12] [Server thread/INFO]: [Creepini: Removed 1 player(s) from their teams: Rad]
+[14:22:39] [Server thread/WARN]: CaptainSparcler moved too quickly! 10.155080118573323,0.0,-0.032328987203072757
+[14:22:42] [Server thread/WARN]: Bucks2k12 moved wrongly!
+[14:23:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2354ms behind, skipping 47 tick(s)
+[14:23:37] [Server thread/INFO]: Rapter2000 has just earned the achievement [Getting Wood]
+[14:23:57] [Server thread/INFO]: onContentStop lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:23:57] [Server thread/INFO]: onContentStop left the game
+[14:24:05] [Server thread/INFO]: Rapter2000 has just earned the achievement [Benchmarking]
+[14:24:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2166ms behind, skipping 43 tick(s)
+[14:24:11] [User Authenticator #14/INFO]: UUID of player onContentStop is a5a02fa8-538d-4d71-ab71-f8d847398cd8
+[14:24:12] [Server thread/INFO]: onContentStop[/192.168.0.1:52316] logged in with entity id 489196 at (701.0843674069063, 66.0, 3208.1080432373055)
+[14:24:12] [Server thread/INFO]: onContentStop joined the game
+[14:25:14] [Server thread/INFO]: radflag622 was killed by wild bees. They should have used a Smoker.
+[14:25:25] [Server thread/INFO]: <Creepini> lol
+[14:25:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2028ms behind, skipping 40 tick(s)
+[14:26:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2015ms behind, skipping 40 tick(s)
+[14:26:34] [Server thread/INFO]: radflag622 has just earned the achievement [Getting Wood]
+[14:26:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7009ms behind, skipping 140 tick(s)
+[14:27:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7423ms behind, skipping 148 tick(s)
+[14:27:21] [Server thread/WARN]: CaptainSparcler moved too quickly! -7.228505859061784,-7.231523797587016,-0.15299470733373255
+[14:27:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2845ms behind, skipping 56 tick(s)
+[14:27:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4084ms behind, skipping 81 tick(s)
+[14:27:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3806ms behind, skipping 76 tick(s)
+[14:28:11] [Server thread/INFO]: CaptainSparcler has just earned the achievement [New Ore Miner]
+[14:28:32] [Server thread/INFO]: <CaptainSparcler> WTRXGamer u almost dead
+[14:28:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2559ms behind, skipping 51 tick(s)
+[14:29:01] [Server thread/INFO]: onContentStop lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:29:01] [Server thread/INFO]: onContentStop left the game
+[14:30:16] [Server thread/INFO]: <Creepini> brb
+[14:30:17] [Server thread/INFO]: Creepini lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:30:17] [Server thread/INFO]: Creepini left the game
+[14:31:12] [Server thread/INFO]: radflag622 was killed by wild bees. They should have used a Smoker.
+[14:31:36] [Server thread/INFO]: WTRXGamer fell from a high place
+[14:34:16] [Server thread/INFO]: <Bucks2k12> dont sleep please
+[14:34:28] [Server thread/WARN]: QuasarKnight moved wrongly!
+[14:34:28] [Server thread/WARN]: WTRXGamer moved wrongly!
+[14:34:31] [Server thread/INFO]: <Bucks2k12> WHY
+[14:34:45] [Server thread/INFO]: <QuasarKnight> mIn
+[14:38:04] [Server thread/INFO]: QuasarKnight was killed by Witch using magic
+[14:38:11] [Server thread/INFO]: radflag622 has just earned the achievement [Benchmarking]
+[14:38:18] [User Authenticator #15/INFO]: UUID of player AgentBAJ is 4ae649ce-98d1-4938-9922-a019dd29af2d
+[14:38:19] [Server thread/INFO]: AgentBAJ[/108.232.89.145:49787] logged in with entity id 534573 at (155.5, 72.0, 243.5)
+[14:38:19] [Server thread/INFO]: AgentBAJ joined the game
+[14:38:20] [Server thread/INFO]: QuasarKnight got revenge on Witch
+[14:38:36] [Server thread/INFO]: QuasarKnight has just earned the achievement [New Ore Miner]
+[14:39:20] [Server thread/INFO]: radflag622 has just earned the achievement [Sticky Situation]
+[14:39:25] [Server thread/INFO]: AgentBAJ has just earned the achievement [Taking Inventory]
+[14:40:11] [User Authenticator #16/INFO]: UUID of player onContentStop is a5a02fa8-538d-4d71-ab71-f8d847398cd8
+[14:40:12] [Server thread/INFO]: onContentStop[/192.168.0.1:52492] logged in with entity id 541427 at (119.97634843896441, 72.0, 254.12671301164033)
+[14:40:12] [Server thread/INFO]: onContentStop joined the game
+[14:40:19] [Server thread/INFO]: <CaptainSparcler> AgentBAJ who are you
+[14:40:23] [Server thread/INFO]: <onContentStop> my frond
+[14:40:31] [Server thread/INFO]: <AgentBAJ> My slave
+[14:41:57] [Server thread/INFO]: <CaptainSparcler> your dumb radflag622
+[14:42:03] [Server thread/INFO]: <Bucks2k12> ....
+[14:42:10] [Server thread/INFO]: AgentBAJ has just earned the achievement [Getting Wood]
+[14:42:25] [Server thread/INFO]: <onContentStop> scoreboard teams join Jonark
+[14:42:30] [Server thread/INFO]: [onContentStop: Added 1 player(s) to team Jonark: onContentStop]
+[14:42:34] [Server thread/INFO]: [onContentStop: Added 1 player(s) to team Jonark: AgentBAJ]
+[14:43:24] [Server thread/INFO]: WTRXGamer has just earned the achievement [Bake Bread]
+[14:43:34] [User Authenticator #17/INFO]: UUID of player Kelloggamer is ae7dc577-061c-44fa-b3bc-33a8e80186c7
+[14:43:35] [Server thread/INFO]: Kelloggamer lost connection: TextComponent{text='Mod rejections [FMLMod:guideapi{@VERSION@}, FMLMod:snad{1.10.2-1.6.09.20a}, FMLMod:intwheel{1.2.4}, FMLMod:hopperducts{1.4.8}, FMLMod:kleeslabs{3.3.5}, FMLMod:etlunar{1.10.2-0.10.6a}, FMLMod:yabba{1.10.2-0.3.0}, FMLMod:storagedrawersextra{1.10-1.1.0}, FMLMod:brandonscore{2.1.4}, FMLMod:wrcbe{2.0.0}, FMLMod:architecturecraft{1.7.1}, FMLMod:sonarcore{3.2.5}, FMLMod:eleccore{1.7.409}, FMLMod:openglider{@VERSION@}, FMLMod:quantumstorage{3.2.19}, FMLMod:props{2.3.6.1}, FMLMod:BloodArsenal{1.10.2-2.0.1-17}, FMLMod:rangedpumps{0.3}, FMLMod:natura{1.10.2-4.1.0.24}, FMLMod:morebees{1.10.2-1.3.2}, FMLMod:flatcoloredblocks{mc1.10-v4.4}, FMLMod:wcg{1.0.0}, FMLMod:mpbasic{1.1.3}, FMLMod:wct{0.0.15}, FMLMod:infinitylib{1.10.2-0.6.2}, FMLMod:bookshelf{1.4.3.338}, FMLMod:PTRModelLib{1.0.0}, FMLMod:reborncore-mcmultipart{2.13.4.128}, FMLMod:mercurius{1.0.1}, FMLMod:refinedrelocation{@VERSION@}, FMLMod:wanionlib{1.10.2-1.3}, FMLMod:mob_grinding_utils{0.1.8.16}, FMLMod:embers{0.104}, FMLMod:modularforcefieldsystem{2.5.0}, FMLMod:xreliquary{1.10.2-1.3.3.639}, FMLMod:techreborn{2.1.6.180}, FMLMod:multistorage{1.2.15}, FMLMod:advanced_solar_panels{4.0.4}, FMLMod:stevescarts{2.1.4.83}, FMLMod:gravisuite{3.0.1}, FMLMod:usefulnullifiers{1.3.4}, FMLMod:clipboard{@VERSION@}, FMLMod:testdummy{1.11}, FMLMod:BloodMagic{1.10.2-2.1.5-74}, FMLMod:chisel{MC1.10.2-0.0.8.12}, FMLMod:roots{0.208}, FMLMod:deepresonance{1.4.6}, FMLMod:shetiphiancore{3.3.6}, FMLMod:mputils{1.2.5}, FMLMod:harvestcraft{1.9.4-1.10.2g}, FMLMod:engineersworkshop{1.1.4-1.10.2}, FMLMod:IC2{2.6.142-ex110}, FMLMod:ceramics{1.10.2-1.1.4b}, FMLMod:Signals{1.0}, FMLMod:mtlib{@VERSION@}, FMLMod:draconicevolution{2.0.8}, FMLMod:compactsolars{1.10.2-5.0.8.331}, FMLMod:rscircuits{1.0.4}, FMLMod:Aroma1997sDimension{1.0}, FMLMod:cookingforblockheads{4.2.35}, FMLMod:reborncore{2.13.4.128}, FMLMod:ftbtweaks{2.0.0}, FMLMod:Woot{1.10.2-1.2.5}, FMLMod:modtweaker{2.0.9}, FMLMod:betterbuilderswands{0.10.2}, FMLMod:gendustry{1.6.5.29}, FMLMod:bitdrawers{0.35}, FMLMod:Funnels{1.1.2}, FMLMod:jeibees{0.9.0.5}, FMLMod:simplevoidworld{1.1.0.4}, FMLMod:boots{1.0}, FMLMod:unidict{1.10.2-2.7}, FMLMod:aquaculture{1.4.0}, FMLMod:OpenComputers{1.6.2.7}, FMLMod:agricraft{2.0.0-0.6.0-a10}, FMLMod:crafttweakerjei{1.0.1}, FMLMod:forestry{5.2.17.368}, FMLMod:supercraftingframe{1.2.1.88}, FMLMod:darkutils{1.1.7.111}, FMLMod:MineTweaker3{3.0.20}, FMLMod:fluxnetworks{1.1.7}, FMLMod:topaddons{1.10.2-0.9.1c}, FMLMod:EnderIO{1.10.2-3.1.156}, FMLMod:advanced_machines{60.0.1}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:43:35] [Server thread/INFO]: Kelloggamer left the game
+[14:45:14] [Server thread/INFO]: <onContentStop> sleep pls
+[14:45:48] [Server thread/INFO]: <WTRXGamer> Kyle is a weeb.
+[14:45:53] [Server thread/INFO]: <WTRXGamer> Fuckin' sleep.
+[14:46:52] [Server thread/WARN]: WTRXGamer moved wrongly!
+[14:46:52] [Server thread/WARN]: QuasarKnight moved wrongly!
+[14:47:01] [Server thread/INFO]: AgentBAJ has just earned the achievement [Sky of Beginning]
+[14:48:04] [Server thread/WARN]: QuasarKnight moved too quickly! 8.717620026652753,0.0,5.313005413614064
+[14:49:21] [Server thread/INFO]: <Bucks2k12> victor is hacking, pls ban
+[14:49:25] [Server thread/INFO]: <onContentStop> fr?
+[14:49:28] [Server thread/INFO]: <CaptainSparcler> i aint
+[14:49:28] [Server thread/INFO]: <Bucks2k12> yes
+[14:49:31] [Server thread/INFO]: <onContentStop> how
+[14:49:37] [Server thread/INFO]: <Bucks2k12> he spawned in 7 emeralds
+[14:49:44] [Server thread/INFO]: <onContentStop> hes not op
+[14:49:45] [Server thread/INFO]: <onContentStop> ...
+[14:49:53] [Server thread/INFO]: <Bucks2k12> its hacks though
+[14:49:55] [Server thread/INFO]: <Bucks2k12> thats the point
+[14:50:00] [Server thread/INFO]: <onContentStop> hacks cant get you items
+[14:50:01] [Server thread/INFO]: <onContentStop> lol
+[14:50:06] [Server thread/INFO]: <Bucks2k12> its new hacks
+[14:50:08] [Server thread/INFO]: <onContentStop> lmao
+[14:50:49] [Server thread/WARN]: radflag622 moved too quickly! 7.277533404862652,7.0,-0.031656932102009705
+[14:54:25] [Server thread/INFO]: Rapter2000 has just earned the achievement [Time to Mine!]
+[14:54:25] [Server thread/INFO]: Rapter2000 has just earned the achievement [Getting an Upgrade]
+[14:57:02] [Server thread/INFO]: radflag622 has just earned the achievement [Time to Strike!]
+[14:57:10] [Server thread/INFO]: radflag622 was slain by CaptainSparcler
+[14:57:36] [Server thread/INFO]: CaptainSparcler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:57:36] [Server thread/INFO]: CaptainSparcler left the game
+[14:58:04] [User Authenticator #18/INFO]: UUID of player Kelloggamer is ae7dc577-061c-44fa-b3bc-33a8e80186c7
+[14:58:06] [Server thread/INFO]: Kelloggamer[/108.71.182.76:62605] logged in with entity id 602637 at (156.5, 72.0, 246.5)
+[14:58:06] [Server thread/INFO]: Kelloggamer joined the game
+[14:58:15] [Server thread/INFO]: <onContentStop> zee
+[14:58:32] [Server thread/INFO]: Kelloggamer has just earned the achievement [Taking Inventory]
+[14:58:36] [Server thread/WARN]: onContentStop moved wrongly!
+[14:58:36] [Server thread/WARN]: QuasarKnight moved wrongly!
+[14:58:51] [Server thread/INFO]: <Kelloggamer> where are you guys
+[14:59:03] [Server thread/WARN]: WTRXGamer moved wrongly!
+[14:59:20] [Server thread/INFO]: Kelloggamer has just earned the achievement [Getting Wood]
+[14:59:54] [Server thread/INFO]: Kelloggamer has just earned the achievement [Benchmarking]
+[15:01:06] [Server thread/INFO]: AgentBAJ has just earned the achievement [RTFM]
+[15:01:19] [Server thread/INFO]: <Kelloggamer> how do i change my name to my faction color?
+[15:01:51] [Server thread/INFO]: <WTRXGamer> Which faction are you in?
+[15:01:55] [Server thread/INFO]: [onContentStop: Added 1 player(s) to team CAT: Kelloggamer]
+[15:01:57] [Server thread/INFO]: <Kelloggamer> my own
+[15:01:59] [Server thread/INFO]: <onContentStop> oh
+[15:02:01] [Server thread/INFO]: <onContentStop> ops
+[15:02:05] [Server thread/INFO]: <Kelloggamer> blue
+[15:02:06] [Server thread/INFO]: <Kelloggamer> pls
+[15:02:12] [Server thread/INFO]: [onContentStop: Removed 1 player(s) from their teams: Kelloggamer]
+[15:02:23] [Server thread/INFO]: [onContentStop: Added new team 'Kelloggamer' successfully]
+[15:02:32] [Server thread/INFO]: [onContentStop: Set option color for team Kelloggamer to blue]
+[15:02:41] [Server thread/INFO]: [onContentStop: Added 1 player(s) to team Kelloggamer: Kelloggamer]
+[15:04:33] [Server thread/WARN]: Tried to over-fill a container
+[15:04:57] [Server thread/INFO]: Kelloggamer has just earned the achievement [Time to Mine!]
+[15:05:48] [Server thread/INFO]: Kelloggamer has just earned the achievement [Hot Topic]
+[15:06:13] [Server thread/INFO]: Kelloggamer has just earned the achievement [Getting an Upgrade]
+[15:06:25] [Server thread/INFO]: Bucks2k12 was slain by Zombie
+[15:07:14] [Server thread/INFO]: Kelloggamer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:07:14] [Server thread/INFO]: Kelloggamer left the game
+[15:07:56] [Server thread/INFO]: Bucks2k12 met a frigid fate!
+[15:08:11] [Server thread/INFO]: Bucks2k12 got revenge on Zombie
+[15:08:13] [Server thread/INFO]: Bucks2k12 tried to swim in lava to escape Zombie
+[15:08:51] [Server thread/INFO]: Bucks2k12 was shot by Skeleton
+[15:10:45] [Server thread/INFO]: Bucks2k12 was shot by Skeleton
+[15:10:59] [Server thread/INFO]: Bucks2k12 was slain by Ancient Golem
+[15:11:26] [Server thread/WARN]: QuasarKnight moved wrongly!
+[15:11:26] [Server thread/WARN]: AgentBAJ moved wrongly!
+[15:11:26] [Server thread/WARN]: radflag622 moved wrongly!
+[15:11:30] [Server thread/INFO]: Bucks2k12 got revenge on Ancient Golem
+[15:12:03] [Server thread/INFO]: Bucks2k12 got revenge on Blizz
+[15:12:50] [Server thread/INFO]: onContentStop was slain by WTRXGamer
+[15:12:58] [Server thread/INFO]: AgentBAJ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:12:58] [Server thread/INFO]: AgentBAJ left the game
+[15:13:11] [User Authenticator #19/INFO]: UUID of player AgentBAJ is 4ae649ce-98d1-4938-9922-a019dd29af2d
+[15:13:12] [Server thread/INFO]: AgentBAJ[/108.232.89.145:49870] logged in with entity id 640797 at (695.6122264597241, 66.0, 3212.202961176752)
+[15:13:12] [Server thread/INFO]: AgentBAJ joined the game
+[15:15:45] [Server thread/INFO]: onContentStop lost connection: TextComponent{text='You have been idle for too long!', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:15:45] [Server thread/INFO]: onContentStop left the game
+[15:15:51] [Server thread/INFO]: QuasarKnight was slain by Zombie
+[15:16:07] [Server thread/INFO]: <Bucks2k12> dont trust Shady Merchants
+[15:16:08] [Server thread/INFO]: <Bucks2k12> pro tip
+[15:16:20] [Server thread/INFO]: QuasarKnight got revenge on Zombie
+[15:16:25] [User Authenticator #20/INFO]: UUID of player onContentStop is a5a02fa8-538d-4d71-ab71-f8d847398cd8
+[15:16:26] [Server thread/INFO]: onContentStop[/192.168.0.1:53368] logged in with entity id 646000 at (687.4281495106468, 66.0, 3202.230361493246)
+[15:16:26] [Server thread/INFO]: onContentStop joined the game
+[15:16:42] [Server thread/INFO]: radflag622 has just earned the achievement [The Basics]
+[15:17:47] [Server thread/INFO]: radflag622 has just earned the achievement [Ironing Things Out]
+[15:18:44] [Server thread/WARN]: Tried to over-fill a container
+[15:18:50] [Server thread/INFO]: Rapter2000 was slain by Bucks2k12
+[15:18:57] [Server thread/INFO]: <radflag622> killed by cardboard
+[15:19:00] [Server thread/INFO]: <Bucks2k12> ^
+[15:19:06] [Server thread/INFO]: <onContentStop> RIP
+[15:25:17] [Server thread/INFO]: radflag622 has just earned the achievement [Monster Hunter]
+[15:28:26] [Server thread/INFO]: Rapter2000 lost connection: TextComponent{text='disconnect.spam', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:28:26] [Server thread/INFO]: Rapter2000 left the game
+[15:29:07] [User Authenticator #21/INFO]: UUID of player Rapter2000 is 26babd3e-00c9-4aac-b086-252ba82f1405
+[15:29:09] [Server thread/INFO]: Rapter2000[/71.191.153.113:62069] logged in with entity id 664019 at (715.5, 69.0999984741211, 562.5)
+[15:29:09] [Server thread/INFO]: Rapter2000 joined the game
+[15:29:13] [Server thread/WARN]: onContentStop moved wrongly!
+[15:29:13] [Server thread/WARN]: WTRXGamer moved wrongly!
+[15:29:18] [Server thread/INFO]: <onContentStop> dont spam emotes lol
+[15:31:55] [Server thread/INFO]: onContentStop has just earned the achievement [DIAMONDS!]
+[15:32:52] [Server thread/INFO]: Rapter2000 has just earned the achievement [Time to Strike!]
+[15:34:10] [Server thread/INFO]: AgentBAJ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:34:10] [Server thread/INFO]: AgentBAJ left the game
+[15:34:31] [User Authenticator #22/INFO]: UUID of player AgentBAJ is 4ae649ce-98d1-4938-9922-a019dd29af2d
+[15:34:32] [Server thread/INFO]: AgentBAJ[/108.232.89.145:49921] logged in with entity id 672468 at (699.5085034503298, 58.0, 3201.359907429797)
+[15:34:32] [Server thread/INFO]: AgentBAJ joined the game
+[15:37:18] [Server thread/INFO]: radflag622 has just earned the achievement [Time to Mine!]
+[15:37:18] [Server thread/INFO]: radflag622 has just earned the achievement [Getting an Upgrade]
+[15:37:33] [Server thread/INFO]: QuasarKnight has just earned the achievement [DIAMONDS!]
+[15:37:42] [Server thread/INFO]: QuasarKnight has just earned the achievement [Diamonds to you!]
+[15:37:46] [Server thread/INFO]: onContentStop has just earned the achievement [Diamonds to you!]
+[15:37:50] [Server thread/INFO]: <onContentStop> yay
+[15:39:15] [Server thread/INFO]: radflag622 has just earned the achievement [New Ore Miner]
+[15:43:36] [Server thread/WARN]: QuasarKnight moved wrongly!
+[15:43:36] [Server thread/WARN]: Rapter2000 moved wrongly!
+[15:45:25] [Server thread/INFO]: Rapter2000 fell from a high place
+[15:45:27] [Server thread/INFO]: Bucks2k12 has just earned the achievement [Shocking]
+[15:47:34] [Server thread/INFO]: Rapter2000 has just earned the achievement [Monster Hunter]
+[15:48:31] [Server thread/INFO]: Rapter2000 has just earned the achievement [New Ore Miner]
+[15:48:45] [Server thread/INFO]: Bucks2k12 was slain by Basalz
+[15:49:02] [Server thread/INFO]: Bucks2k12 got revenge on Basalz
+[15:52:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2437ms behind, skipping 48 tick(s)
+[15:52:22] [Server thread/WARN]: QuasarKnight moved too quickly! 0.2781828808025466,1.4959870982234769,9.995188183794653
+[15:52:27] [Server thread/INFO]: Rapter2000 has just earned the achievement [Tech-Tree Start]
+[15:53:28] [Server thread/INFO]: WTRXGamer has just earned the achievement [Time to Strike!]
+[15:53:40] [Server thread/INFO]: Server Backup started!
+[15:53:40] [Server thread/INFO]: Turned off world auto-saving
+[15:53:40] [Server thread/INFO]: Saving...
+[15:53:40] [Server thread/INFO]: Saved the world
+[15:53:46] [Thread-84/INFO]: Server backup done in 00:00:05! (140.0MB | 219.1MB)
+[15:53:46] [Server thread/INFO]: Turned on world auto-saving
+[15:53:53] [Server thread/INFO]: <onContentStop> 5 seconds LUL
+[15:54:49] [Server thread/INFO]: WTRXGamer has just earned the achievement [Sky of Beginning]
+[15:55:19] [Server thread/WARN]: Fetching addPacket for removed entity
+[15:55:58] [Server thread/INFO]: WTRXGamer has just earned the achievement [Cow Tipper]
+[15:57:04] [Server thread/INFO]: Bucks2k12 has just earned the achievement [Tech-Tree Start]
+[15:59:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3610ms behind, skipping 72 tick(s)
+[15:59:40] [Server thread/WARN]: AgentBAJ moved too quickly! -593.1601298012343,-8.0,-2806.411209274692
+[15:59:45] [Server thread/INFO]: onContentStop has just earned the achievement [We Need to Go Deeper]
+[15:59:50] [Server thread/INFO]: WTRXGamer has just earned the achievement [Monster Hunter]
+[16:00:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6342ms behind, skipping 126 tick(s)
+[16:01:37] [Server thread/INFO]: onContentStop lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:01:37] [Server thread/INFO]: onContentStop left the game
+[16:01:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3066ms behind, skipping 61 tick(s)
+[16:07:34] [User Authenticator #23/INFO]: UUID of player onContentStop is a5a02fa8-538d-4d71-ab71-f8d847398cd8
+[16:07:35] [Server thread/INFO]: onContentStop[/192.168.0.1:53870] logged in with entity id 733092 at (96.52641951152452, 51.0, 399.88403942671454)
+[16:07:35] [Server thread/INFO]: onContentStop joined the game
+[16:09:20] [Server thread/WARN]: Bucks2k12 moved too quickly! -10.144292426661309,-0.01735930779294037,-0.1348945821664529
+[16:09:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2913ms behind, skipping 58 tick(s)
+[16:11:49] [Server thread/INFO]: WTRXGamer's soul became too weak
+[16:15:05] [Server thread/WARN]: Bucks2k12 moved wrongly!
+[16:15:05] [Server thread/WARN]: radflag622 moved wrongly!
+[16:32:48] [Server thread/INFO]: Bucks2k12 was shot by Skeleton
+[16:32:57] [Server thread/WARN]: QuasarKnight moved wrongly!
+[16:32:58] [Server thread/WARN]: radflag622 moved wrongly!
+[16:34:41] [Server thread/INFO]: Rapter2000 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:34:41] [Server thread/INFO]: Rapter2000 left the game
+[16:34:47] [Server thread/INFO]: Bucks2k12 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:34:47] [Server thread/INFO]: Bucks2k12 left the game
+[16:37:04] [Server thread/INFO]: QuasarKnight has just earned the achievement [Sky of Beginning]
+[16:37:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2894ms behind, skipping 57 tick(s)
+[16:39:23] [Server thread/INFO]: WTRXGamer tried to swim in lava
+[16:40:26] [Server thread/INFO]: QuasarKnight lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:40:26] [Server thread/INFO]: QuasarKnight left the game
+[16:41:21] [Server thread/INFO]: onContentStop has just earned the achievement [Exotic Miner!]
+[16:43:55] [User Authenticator #24/INFO]: UUID of player Kelloggamer is ae7dc577-061c-44fa-b3bc-33a8e80186c7
+[16:43:58] [Server thread/INFO]: Kelloggamer[/108.71.182.76:63862] logged in with entity id 815006 at (47.353381922000025, 42.0, 39.69999998807907)
+[16:43:58] [Server thread/INFO]: Kelloggamer joined the game
+[16:44:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2858ms behind, skipping 57 tick(s)
+[16:46:20] [Server thread/INFO]: WTRXGamer has just earned the achievement [Exotic Miner!]
+[16:47:55] [Server thread/WARN]: radflag622 moved wrongly!
+[16:48:10] [Server thread/INFO]: Kelloggamer has just earned the achievement [Acquire Hardware]
+[16:48:29] [Server thread/INFO]: Kelloggamer has just earned the achievement [Time to Strike!]
+[16:48:42] [Server thread/INFO]: Kelloggamer has just earned the achievement [New Ore Miner]
+[16:50:17] [Server thread/INFO]: WTRXGamer was slain by AgentBAJ
+[16:50:41] [User Authenticator #25/INFO]: UUID of player Creepini is e1cae796-a835-44ba-b79e-9a810d9cd1ea
+[16:50:42] [Server thread/INFO]: Creepini[/192.168.0.1:50554] logged in with entity id 834484 at (715.2633842857122, 67.0, 531.4342537290579)
+[16:50:42] [Server thread/INFO]: Creepini joined the game
+[16:51:35] [Server thread/INFO]: <Creepini> Heyo
+[16:51:38] [Server thread/INFO]: <Kelloggamer> hi
+[16:51:38] [Server thread/INFO]: <AgentBAJ> Hi
+[16:51:39] [Server thread/INFO]: <radflag622> join discord?
+[16:51:49] [Server thread/INFO]: <Kelloggamer> how to clam cunks
+[16:51:57] [Server thread/INFO]: <Creepini> oh hey Luis
+[16:52:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3975ms behind, skipping 79 tick(s)
+[16:52:16] [Server thread/INFO]: <Kelloggamer> hi
+[16:52:17] [Server thread/INFO]: <Creepini> go to inventory - its on the left - the buttons, second to top
+[16:52:24] [Server thread/INFO]: <Creepini> then select your cunks
+[16:52:28] [Server thread/INFO]: <Creepini> chunks*
+[16:52:49] [Server thread/INFO]: <Kelloggamer> u were right its cunks
+[16:52:55] [Server thread/INFO]: <Creepini> okay :P
+[16:53:02] [Server thread/INFO]: <Kelloggamer> np
+[16:55:19] [Server thread/INFO]: AgentBAJ has just earned the achievement [HAMMAH!]
+[16:56:05] [Server thread/INFO]: WTRXGamer was shot by Skeleton
+[16:56:09] [Server thread/WARN]: Fetching addPacket for removed entity
+[16:56:17] [Server thread/INFO]: WTRXGamer got revenge on Skeleton
+[16:56:20] [Server thread/INFO]: WTRXGamer has just earned the achievement [New Ore Miner]
+[17:00:15] [Server thread/INFO]: Kelloggamer has just earned the achievement [Monster Hunter]
+[17:01:19] [Server thread/INFO]: WTRXGamer was shot by onContentStop
+[17:02:18] [Server thread/INFO]: AgentBAJ was slain by Magma Cube
+[17:02:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2867ms behind, skipping 57 tick(s)
+[17:02:28] [Server thread/INFO]: onContentStop has just earned the achievement [Delicious Fish]
+[17:02:47] [Server thread/INFO]: AgentBAJ was slain by Magma Cube
+[17:02:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2195ms behind, skipping 43 tick(s)
+[17:03:01] [Server thread/WARN]: onContentStop moved too quickly! -593.4199291460037,-8.0,-2806.0
+[17:03:55] [Server thread/INFO]: AgentBAJ got revenge on Magma Cube
+[17:03:59] [Server thread/INFO]: <Creepini> lol
+[17:04:04] [Server thread/INFO]: <Creepini> nince job Jonah
+[17:04:05] [Server thread/INFO]: <Creepini> :D
+[17:04:12] [Server thread/INFO]: <AgentBAJ> lol
+[17:04:55] [Server thread/INFO]: onContentStop has just earned the achievement [Into Fire]
+[17:05:08] [Server thread/INFO]: AgentBAJ was slain by Magma Cube
+[17:05:18] [Server thread/INFO]: <AgentBAJ> lol
+[17:05:53] [Server thread/INFO]: AgentBAJ got revenge on Magma Cube
+[17:05:59] [Server thread/INFO]: <onContentStop> again'
+[17:06:00] [Server thread/INFO]: <AgentBAJ> I win
+[17:09:24] [Server thread/INFO]: AgentBAJ was slain by Blaze
+[17:09:34] [Server thread/INFO]: <AgentBAJ> I win
+[17:11:11] [User Authenticator #26/INFO]: UUID of player QuasarKnight is 25fdef64-d48e-41f0-86e1-b53aec7a4bf3
+[17:11:12] [Server thread/INFO]: QuasarKnight[/104.189.187.230:50424] logged in with entity id 890662 at (705.5581781426655, 58.0, 3201.660074455028)
+[17:11:12] [Server thread/INFO]: QuasarKnight joined the game
+[17:12:14] [Server thread/INFO]: AgentBAJ was shot by onContentStop
+[17:12:40] [Server thread/INFO]: onContentStop was slain by Skeleton
+[17:12:52] [Server thread/INFO]: AgentBAJ was slain by Skeleton
+[17:12:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2143ms behind, skipping 42 tick(s)
+[17:13:03] [Server thread/INFO]: onContentStop was slain by Skeleton
+[17:13:11] [Server thread/WARN]: Fetching addPacket for removed entity
+[17:13:16] [Server thread/INFO]: AgentBAJ was burnt to a crisp whilst fighting Blaze
+[17:13:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5103ms behind, skipping 102 tick(s)
+[17:13:37] [Server thread/INFO]: AgentBAJ was slain by Skeleton
+[17:13:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3476ms behind, skipping 69 tick(s)
+[17:14:17] [Server thread/INFO]: AgentBAJ was slain by Skeleton
+[17:14:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2552ms behind, skipping 51 tick(s)
+[17:14:34] [Server thread/INFO]: AgentBAJ was burnt to a crisp whilst fighting Blaze
+[17:14:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2007ms behind, skipping 40 tick(s)
+[17:14:47] [Server thread/INFO]: QuasarKnight has just earned the achievement [We Need to Go Deeper]
+[17:15:14] [Server thread/INFO]: AgentBAJ was burnt to a crisp whilst fighting Blaze
+[17:15:45] [Server thread/INFO]: AgentBAJ was slain by Skeleton
+[17:15:49] [Server thread/INFO]: Kelloggamer has just earned the achievement [Cow Tipper]
+[17:16:08] [Server thread/INFO]: AgentBAJ got revenge on Skeleton
+[17:16:15] [Server thread/INFO]: AgentBAJ was fireballed by Blaze
+[17:16:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2429ms behind, skipping 48 tick(s)
+[17:17:11] [Server thread/WARN]: Kelloggamer moved too quickly! 3.0441805681553973,0.12129684053920187,-9.745447237644527
+[17:17:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3639ms behind, skipping 72 tick(s)
+[17:19:10] [Server thread/WARN]: Kelloggamer moved wrongly!
+[17:19:45] [Server thread/INFO]: Kelloggamer has just earned the achievement [The Basics]
+[17:20:06] [Server thread/INFO]: Kelloggamer has just earned the achievement [Ironing Things Out]
+[17:21:53] [Server thread/INFO]: QuasarKnight has just earned the achievement [Into Fire]
+[17:23:19] [Server thread/INFO]: radflag622 has just earned the achievement [Getting Educated]
+[17:23:35] [Server thread/INFO]: <Kelloggamer> go to school boi
+[17:26:12] [Server thread/WARN]: Tried to over-fill a container
+[17:27:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2584ms behind, skipping 51 tick(s)
+[17:27:16] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[17:27:16] [Server thread/WARN]: Tried to over-fill a container
+[17:27:35] [Server thread/WARN]: Boat (vehicle of Kelloggamer) moved too quickly! -10.38405278626783,0.0,-0.26168044239358323
+[17:27:35] [Server thread/WARN]: Boat (vehicle of Kelloggamer) moved too quickly! -10.783554568526256,0.0,-0.26009229050686145
+[17:27:47] [Server thread/WARN]: Boat (vehicle of Kelloggamer) moved too quickly! -6.808127939996098,0.0,7.834083651441318
+[17:27:47] [Server thread/WARN]: Boat (vehicle of Kelloggamer) moved too quickly! -7.095188843766891,0.0,8.110150457281776
+[17:27:47] [Server thread/WARN]: Boat (vehicle of Kelloggamer) moved too quickly! -7.385614745276484,0.0,8.382515486267351
+[17:27:47] [Server thread/WARN]: Boat (vehicle of Kelloggamer) moved too quickly! -7.679290065561418,0.0,8.651249633799779
+[17:27:47] [Server thread/WARN]: Boat (vehicle of Kelloggamer) moved too quickly! -7.976490029285401,0.0,8.915872262012414
+[17:27:47] [Server thread/WARN]: Boat (vehicle of Kelloggamer) moved too quickly! -8.277760026587202,0.0,9.175439003417011
+[17:27:47] [Server thread/WARN]: Boat (vehicle of Kelloggamer) moved too quickly! -8.583800608894649,0.0,9.428597927665123
+[17:27:53] [Server thread/WARN]: Kelloggamer moved wrongly!
+[17:28:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2299ms behind, skipping 45 tick(s)
+[17:28:57] [Server thread/WARN]: onContentStop moved too quickly! 593.5923615889759,8.0,2804.9252984888044
+[17:29:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2292ms behind, skipping 45 tick(s)
+[17:31:23] [Server thread/INFO]: onContentStop lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:31:23] [Server thread/INFO]: onContentStop left the game
+[17:31:49] [Server thread/INFO]: WTRXGamer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:31:49] [Server thread/INFO]: WTRXGamer left the game
+[17:32:21] [Server thread/INFO]: <Kelloggamer> sleep pls
+[17:32:36] [Server thread/INFO]: <Creepini> z
+[17:32:37] [Server thread/INFO]: <Creepini> z
+[17:32:37] [Server thread/INFO]: <Creepini> z
+[17:32:43] [Server thread/INFO]: <Creepini> oh
+[17:32:44] [Server thread/INFO]: <Creepini> uhh
+[17:32:45] [Server thread/INFO]: <Creepini> hey
+[17:32:48] [Server thread/INFO]: <Creepini> I cant be the only one
+[17:33:11] [Server thread/WARN]: Creepini moved wrongly!
+[17:33:11] [Server thread/WARN]: radflag622 moved wrongly!
+[17:35:56] [Server thread/INFO]: [Creepini: Set the display objective in slot 'sidebar' to 'Death']
+[17:37:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3369ms behind, skipping 67 tick(s)
+[17:41:42] [Server thread/INFO]: <radflag622> tt
+[17:44:23] [Server thread/INFO]: AgentBAJ has just earned the achievement [Really Hot Topic]
+[17:44:33] [Server thread/INFO]: <Creepini> noice railcraft
+[17:44:57] [Server thread/INFO]: radflag622 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:44:57] [Server thread/INFO]: radflag622 left the game
+[17:45:07] [Server thread/INFO]: Kelloggamer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:45:07] [Server thread/INFO]: Kelloggamer left the game
+[17:48:38] [Server thread/INFO]: AgentBAJ was slain by Zombie
+[17:53:33] [Server thread/INFO]: QuasarKnight was shot by Skeleton
+[17:53:40] [Server thread/INFO]: Server Backup started!
+[17:53:40] [Server thread/INFO]: Turned off world auto-saving
+[17:53:40] [Server thread/INFO]: Saving...
+[17:53:40] [Server thread/INFO]: Saved the world
+[17:53:46] [Thread-109/INFO]: Server backup done in 00:00:05! (156.9MB | 376.0MB)
+[17:53:46] [Server thread/INFO]: Turned on world auto-saving
+[17:53:47] [Server thread/INFO]: QuasarKnight got revenge on Skeleton
+[17:56:37] [Server thread/INFO]: AgentBAJ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:56:37] [Server thread/INFO]: AgentBAJ left the game
+[17:59:07] [Server thread/INFO]: QuasarKnight lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:59:07] [Server thread/INFO]: QuasarKnight left the game
+[18:09:32] [User Authenticator #27/INFO]: UUID of player CaptainSparcler is 098d58dd-1ccc-4ad0-9183-662bd64f0f16
+[18:09:33] [Server thread/INFO]: CaptainSparcler[/107.200.4.229:53199] logged in with entity id 1027276 at (690.3622249613553, 64.0, 554.8638618589026)
+[18:09:33] [Server thread/INFO]: CaptainSparcler joined the game
+[18:11:54] [Server thread/INFO]: <CaptainSparcler> z
+[18:11:54] [Server thread/INFO]: <CaptainSparcler> zz
+[18:11:54] [Server thread/INFO]: <CaptainSparcler> z
+[18:11:54] [Server thread/INFO]: <CaptainSparcler> z
+[18:11:55] [Server thread/INFO]: <CaptainSparcler> z
+[18:11:55] [Server thread/INFO]: <CaptainSparcler> z
+[18:11:55] [Server thread/INFO]: <CaptainSparcler> z
+[18:11:55] [Server thread/INFO]: <CaptainSparcler> zz
+[18:11:55] [Server thread/INFO]: <CaptainSparcler> z
+[18:11:56] [Server thread/INFO]: <CaptainSparcler> z
+[18:11:56] [Server thread/INFO]: <CaptainSparcler> z
+[18:11:56] [Server thread/INFO]: <CaptainSparcler> z
+[18:11:56] [Server thread/WARN]: Creepini moved wrongly!
+[18:11:56] [Server thread/WARN]: CaptainSparcler moved wrongly!
+[18:27:13] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 1000]
+[18:27:26] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 3]
+[18:28:36] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 1000]
+[18:28:40] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 3]
+[18:34:48] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 1000]
+[18:34:51] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 3]
+[18:36:07] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 1000]
+[18:36:13] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 3]
+[18:37:05] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 1000]
+[18:38:50] [Server thread/INFO]: CaptainSparcler has just earned the achievement [Hot Topic]
+[18:39:10] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 3]
+[18:44:25] [Server thread/WARN]: CaptainSparcler moved wrongly!
+[18:45:17] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 1000]
+[18:45:18] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 3]
+[18:50:19] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 1000]
+[18:50:22] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 3]
+[18:53:35] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 1000]
+[18:53:37] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 3]
+[18:54:33] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 1000]
+[18:54:38] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 1000]
+[18:54:39] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 3]
+[18:55:20] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 1000]
+[18:55:31] [Server thread/INFO]: [Creepini: Game rule randomTickSpeed has been updated to 3]
+[18:56:03] [Server thread/INFO]: Creepini has just earned the achievement [Time to Farm!]
+[18:59:56] [User Authenticator #28/INFO]: UUID of player Kelloggamer is ae7dc577-061c-44fa-b3bc-33a8e80186c7
+[18:59:59] [Server thread/INFO]: Kelloggamer[/108.71.182.76:64343] logged in with entity id 1086642 at (-816.3571873417975, 64.0, -175.29146094966674)
+[18:59:59] [Server thread/INFO]: Kelloggamer joined the game
+[19:00:13] [Server thread/INFO]: <Kelloggamer> hi
+[19:00:15] [Server thread/INFO]: <Creepini> heyo
+[19:00:48] [Server thread/INFO]: <Kelloggamer> sleep? i lost my bed
+[19:01:10] [Server thread/WARN]: CaptainSparcler moved wrongly!
+[19:01:13] [Server thread/INFO]: <Kelloggamer> thnx
+[19:02:37] [Server thread/INFO]: <Kelloggamer> is there magical crops here
+[19:02:41] [Server thread/INFO]: <CaptainSparcler> no
+[19:02:43] [Server thread/INFO]: <Creepini> yeah
+[19:02:45] [Server thread/INFO]: <CaptainSparcler> agri craft
+[19:02:45] [Server thread/INFO]: <Creepini> there is
+[19:02:49] [Server thread/INFO]: <Creepini> its not called it
+[19:02:55] [Server thread/INFO]: <Creepini> uhh
+[19:02:55] [Server thread/INFO]: <Creepini> wait
+[19:03:04] [Server thread/INFO]: <Kelloggamer> but i looked up mystical and it didnt come up either
+[19:03:07] [Server thread/INFO]: <Creepini> no, i dont think so
+[19:03:09] [Server thread/INFO]: <Creepini> sorry
+[19:03:12] [Server thread/INFO]: <Creepini> other one did
+[19:03:12] [Server thread/INFO]: <Kelloggamer> kk
+[19:03:20] [Server thread/INFO]: <Kelloggamer> idk what to do now
+[19:03:24] [Server thread/INFO]: <Kelloggamer> i made a hut and im done
+[19:06:16] [Server thread/INFO]: Kelloggamer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:06:16] [Server thread/INFO]: Kelloggamer left the game
+[19:12:24] [Server thread/WARN]: CaptainSparcler moved wrongly!
+[19:13:31] [Server thread/INFO]: CaptainSparcler has just earned the achievement [Sticky Situation]
+[19:16:36] [Server thread/INFO]: Creepini lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:16:36] [Server thread/INFO]: Creepini left the game
+[19:16:49] [User Authenticator #29/INFO]: UUID of player Creepini is e1cae796-a835-44ba-b79e-9a810d9cd1ea
+[19:16:50] [Server thread/INFO]: Creepini[/192.168.0.1:51131] logged in with entity id 1129744 at (713.3179954750193, 67.0, 531.1501980922932)
+[19:16:50] [Server thread/INFO]: Creepini joined the game
+[19:25:46] [Server thread/WARN]: Creepini moved wrongly!
+[19:26:14] [Server thread/INFO]: <Creepini> xd
+[19:26:31] [Server thread/INFO]: Creepini lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:26:31] [Server thread/INFO]: Creepini left the game
+[19:28:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@2960c506[id=<null>,name=DiamondKing504,properties={},legacy=false] (/69.144.148.130:60746) lost connection: Disconnected
+[19:32:42] [User Authenticator #30/INFO]: UUID of player DiamondKing504 is 509ad8ee-dd05-4ea6-bb86-5227fefa7be6
+[19:32:43] [Server thread/INFO]: DiamondKing504[/69.144.148.130:60841] logged in with entity id 1161609 at (704.9208828388126, 64.0, 556.7059094163507)
+[19:32:43] [Server thread/INFO]: DiamondKing504 joined the game
+[19:37:52] [User Authenticator #31/INFO]: UUID of player Creepini is e1cae796-a835-44ba-b79e-9a810d9cd1ea
+[19:37:53] [Server thread/INFO]: Creepini[/192.168.0.1:51457] logged in with entity id 1167189 at (714.299999974668, 64.0, 566.299999974668)
+[19:37:53] [Server thread/INFO]: Creepini joined the game
+[19:38:19] [Server thread/INFO]: <Creepini> Heyo
+[19:38:21] [Server thread/INFO]: <Creepini> join call?
+[19:42:53] [Server thread/INFO]: DiamondKing504 lost connection: TextComponent{text='You have been idle for too long!', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:42:53] [Server thread/INFO]: DiamondKing504 left the game
+[19:43:52] [Server thread/WARN]: Creepini moved wrongly!
+[19:44:52] [User Authenticator #32/INFO]: UUID of player Kelloggamer is ae7dc577-061c-44fa-b3bc-33a8e80186c7
+[19:44:55] [Server thread/INFO]: Kelloggamer[/108.71.182.76:64532] logged in with entity id 1173883 at (-821.1343889802847, 64.0, -174.3870775256489)
+[19:44:55] [Server thread/INFO]: Kelloggamer joined the game
+[19:44:58] [Server thread/INFO]: <Creepini> Heyo
+[19:45:01] [Server thread/INFO]: <Creepini> discord
+[19:45:03] [Server thread/INFO]: <Creepini> ?
+[19:45:11] [Server thread/INFO]: <Kelloggamer> hy
+[19:46:58] [Server thread/INFO]: <Kelloggamer> when you make the wrong chisel :/
+[19:47:07] [Server thread/INFO]: <Creepini> lol
+[19:47:18] [Server thread/INFO]: <Kelloggamer> can you make my name blue when i talk?
+[19:47:22] [Server thread/INFO]: <Creepini> no, sorry
+[19:47:26] [Server thread/INFO]: <Kelloggamer> oh
+[19:47:28] [Server thread/INFO]: <Kelloggamer> kk
+[19:47:28] [Server thread/INFO]: <Creepini> The only colors are geen and white
+[19:47:35] [Server thread/INFO]: <Creepini> green is OP-ed players
+[19:47:38] [Server thread/INFO]: <Kelloggamer> oh
+[19:47:40] [Server thread/INFO]: <Creepini> yeah
+[19:47:42] [Server thread/INFO]: <Creepini> its a mod
+[19:47:43] [Server thread/INFO]: <Creepini> so...
+[19:47:46] [Server thread/INFO]: <Kelloggamer> but kyle is red
+[19:47:51] [Server thread/INFO]: <Creepini> uhh
+[19:48:01] [Server thread/INFO]: <Creepini> when he messages its green
+[19:48:05] [Server thread/INFO]: <Creepini> his name is red
+[19:48:09] [Server thread/INFO]: <Kelloggamer> ok
+[19:48:14] [Server thread/INFO]: Kelloggamer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:48:14] [Server thread/INFO]: Kelloggamer left the game
+[19:48:14] [Server thread/INFO]: [Creepini: Set score of Death for player Kelloggamer to 0]
+[19:49:40] [User Authenticator #33/INFO]: UUID of player DiamondKing504 is 509ad8ee-dd05-4ea6-bb86-5227fefa7be6
+[19:49:41] [Server thread/INFO]: DiamondKing504[/69.144.148.130:60892] logged in with entity id 1185223 at (688.3000000119209, 49.0, 554.3000000119209)
+[19:49:41] [Server thread/INFO]: DiamondKing504 joined the game
+[19:49:44] [Server thread/INFO]: <Creepini> Hey
+[19:49:46] [Server thread/INFO]: <Creepini> discord?
+[19:53:40] [Server thread/INFO]: Server Backup started!
+[19:53:40] [Server thread/INFO]: Turned off world auto-saving
+[19:53:40] [Server thread/INFO]: Saving...
+[19:53:40] [Server thread/INFO]: Saved the world
+[19:53:46] [Thread-134/INFO]: Server backup done in 00:00:05! (158.9MB | 535.0MB)
+[19:53:46] [Server thread/INFO]: Turned on world auto-saving
+[19:54:17] [Server thread/INFO]: Creepini fell from a high place
+[19:58:48] [Server thread/WARN]: Creepini moved too quickly! -11.930749142827654,1.43322511474868,2.6335744208824394
+[19:58:55] [Server thread/WARN]: Creepini moved too quickly! -15.67610503091143,4.356273660724511,1.1095125247290412
+[19:58:57] [Server thread/WARN]: Creepini moved too quickly! -0.11534349466316485,-10.572894103966505,0.0032285938505083323
+[19:59:23] [Server thread/WARN]: CaptainSparcler moved too quickly! -5.080658798209946,10.229109671440213,-0.5651170361769005
+[19:59:51] [Server thread/WARN]: CaptainSparcler moved too quickly! -8.97925750154323,-6.474801592472488,-0.017969977110624313
+[19:59:54] [Server thread/WARN]: Creepini moved too quickly! -1.946293843622044,-10.382443822324603,3.9105792399683423
+[20:00:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2102ms behind, skipping 42 tick(s)
+[20:00:04] [Server thread/WARN]: Creepini moved too quickly! -1.2295164889898729,7.632128850717137,-7.80846245492603
+[20:00:36] [Server thread/WARN]: Creepini moved too quickly! 0.30348467604744656,-4.858633587045233,-10.747869674184983
+[20:00:36] [Server thread/WARN]: CaptainSparcler moved too quickly! -22.316123456435548,6.068440023879447,12.04960811198373
+[20:00:50] [Server thread/WARN]: CaptainSparcler moved too quickly! -10.886206310586033,0.4443641362358335,13.501802758380677
+[20:00:57] [Server thread/WARN]: CaptainSparcler moved too quickly! -15.404935905466061,1.6101575581687513,15.661085103327252
+[20:01:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2713ms behind, skipping 54 tick(s)
+[20:02:19] [Server thread/WARN]: CaptainSparcler moved too quickly! 5.933388640038402,-9.311686680896884,1.0023214916282086
+[20:03:02] [Server thread/INFO]: [Creepini: Saved the world]
+[20:04:16] [Server thread/WARN]: Creepini moved wrongly!
+[20:07:28] [Server thread/INFO]: <Creepini> z
+[20:07:28] [Server thread/INFO]: <Creepini> z
+[20:07:29] [Server thread/INFO]: <Creepini> z
+[20:07:29] [Server thread/INFO]: <Creepini> z
+[20:07:29] [Server thread/INFO]: <Creepini> z
+[20:07:29] [Server thread/INFO]: <Creepini> z
+[20:07:30] [Server thread/INFO]: <Creepini> z
+[20:07:30] [Server thread/INFO]: <Creepini> z
+[20:07:30] [Server thread/INFO]: <Creepini> z
+[20:07:30] [Server thread/INFO]: <Creepini> z
+[20:07:30] [Server thread/INFO]: <Creepini> z
+[20:07:30] [Server thread/INFO]: <Creepini> z
+[20:07:30] [Server thread/INFO]: <Creepini> z
+[20:07:31] [Server thread/INFO]: <Creepini> z
+[20:07:31] [Server thread/WARN]: Creepini moved wrongly!
+[20:14:00] [Server thread/WARN]: CaptainSparcler moved too quickly! -682.8650266662836,-42.0,-527.345378392788
+[20:14:45] [Server thread/WARN]: Creepini moved too quickly! -682.9509293123496,-42.0,-526.8536980426402
+[20:16:51] [Server thread/INFO]: Creepini has just earned the achievement [Return to Sender]
+[20:18:44] [Server thread/INFO]: [Creepini: Teleported Creepini to DiamondKing504]
+[20:19:52] [Server thread/INFO]: CaptainSparcler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:19:52] [Server thread/INFO]: CaptainSparcler left the game
+[20:20:00] [User Authenticator #34/INFO]: UUID of player CaptainSparcler is 098d58dd-1ccc-4ad0-9183-662bd64f0f16
+[20:20:01] [Server thread/INFO]: CaptainSparcler[/107.200.4.229:53507] logged in with entity id 1277121 at (713.3459258128188, 67.0, 530.0403769991512)
+[20:20:01] [Server thread/INFO]: CaptainSparcler joined the game
+[20:23:03] [Server thread/INFO]: Creepini has just earned the achievement [Bake Bread]
+[20:30:03] [Server thread/INFO]: DiamondKing504 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:30:03] [Server thread/INFO]: DiamondKing504 left the game
+[20:30:25] [Server thread/INFO]: Creepini lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:30:25] [Server thread/INFO]: Creepini left the game
+[20:46:33] [Server thread/WARN]: CaptainSparcler moved too quickly! 2.8402607822691834,-0.6815583980583213,-10.406917615461225
+[21:00:08] [Server thread/INFO]: CaptainSparcler lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:00:08] [Server thread/INFO]: CaptainSparcler left the game
+[21:53:40] [Server thread/INFO]: Server Backup started!
+[21:53:40] [Server thread/INFO]: Turned off world auto-saving
+[21:53:40] [Server thread/INFO]: Saving...
+[21:53:40] [Server thread/INFO]: Saved the world
+[21:53:45] [Thread-159/INFO]: Server backup done in 00:00:05! (167.1MB | 702.1MB)
+[21:53:46] [Server thread/INFO]: Turned on world auto-saving
+[22:00:34] [Server thread/INFO]: There are 0/20 players online:
+[22:00:34] [Server thread/INFO]: 

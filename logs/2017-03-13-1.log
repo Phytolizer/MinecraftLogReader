@@ -1,0 +1,42 @@
+[18:24:19] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[18:25:14] [Server thread/INFO]: Loading properties
+[18:25:14] [Server thread/INFO]: Default game type: SURVIVAL
+[18:25:14] [Server thread/INFO]: Generating keypair
+[18:25:14] [Server thread/INFO]: Starting Minecraft server on *:7878
+[18:25:14] [Server thread/INFO]: Using default channel type
+[18:25:26] [Server thread/INFO]: Preparing level "world"
+[18:25:27] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[18:25:27] [Server thread/INFO]: Preparing start region for level 0
+[18:25:30] [Server thread/INFO]: Preparing spawn area: 9%
+[18:25:31] [Server thread/INFO]: Done (4.782s)! For help, type "help" or "?"
+[18:25:32] [Server thread/INFO]: FTBLib: Server reloaded in 684ms
+[18:25:42] [User Authenticator #1/INFO]: UUID of player radflag622 is 7d9670e6-bc2f-4943-a6ee-410af51e9cc3
+[18:25:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10213ms behind, skipping 204 tick(s)
+[18:25:43] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Ticking block entity
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:715) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:387) ~[ld.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:613) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:471) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+Caused by: java.lang.NullPointerException
+	at com.nekokittygames.mffs.common.tileentity.TileEntityProjector.FieldGenerate(TileEntityProjector.java:724) ~[TileEntityProjector.class:?]
+	at com.nekokittygames.mffs.common.tileentity.TileEntityProjector.func_73660_a(TileEntityProjector.java:519) ~[TileEntityProjector.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1804) ~[aid.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:620) ~[ls.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:709) ~[MinecraftServer.class:?]
+	... 4 more
+[18:25:43] [Server thread/ERROR]: This crash report has been saved to: C:\Users\mario\OneDrive\Servers\Minecraft\FTBBeyondServer\.\crash-reports\crash-2017-03-13_18.25.43-server.txt
+[18:25:43] [Server thread/INFO]: Stopping server
+[18:25:43] [Server thread/INFO]: Saving players
+[18:25:43] [Server thread/INFO]: Saving worlds
+[18:25:43] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:25:44] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[18:25:44] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[18:25:44] [Server thread/INFO]: Saving chunks for level 'world'/Deep Dark
+[18:25:44] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[18:25:44] [Server thread/INFO]: Saving chunks for level 'world'/simplevoidworld
+[18:25:44] [Server thread/INFO]: Saving chunks for level 'world'/MiningWorld
+[18:25:45] [Server Shutdown Thread/INFO]: Stopping server
+[18:25:45] [Server Shutdown Thread/INFO]: Saving players
+[18:25:45] [Server Shutdown Thread/INFO]: Saving worlds

@@ -1,0 +1,162 @@
+[20:09:13] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[20:10:06] [Server thread/INFO]: Loading properties
+[20:10:06] [Server thread/INFO]: Default game type: SURVIVAL
+[20:10:06] [Server thread/INFO]: Generating keypair
+[20:10:06] [Server thread/INFO]: Starting Minecraft server on *:7878
+[20:10:06] [Server thread/INFO]: Using default channel type
+[20:10:20] [Server thread/INFO]: Preparing level "world"
+[20:10:20] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[20:10:22] [Server thread/INFO]: Preparing start region for level 0
+[20:10:23] [Server thread/INFO]: Preparing spawn area: 29%
+[20:10:24] [Server thread/INFO]: Done (3.998s)! For help, type "help" or "?"
+[20:10:25] [Server thread/INFO]: FTBLib: Server reloaded in 681ms
+[20:10:37] [User Authenticator #1/INFO]: UUID of player Creepini is e1cae796-a835-44ba-b79e-9a810d9cd1ea
+[20:10:38] [User Authenticator #2/INFO]: UUID of player AgentBAJ is 4ae649ce-98d1-4938-9922-a019dd29af2d
+[20:10:38] [Server thread/INFO]: Creepini[/192.168.0.1:53179] logged in with entity id 189 at (664.3422548421509, 11.753199980521202, -1697.478236107542)
+[20:10:38] [Server thread/INFO]: Creepini joined the game
+[20:10:40] [Server thread/INFO]: AgentBAJ[/108.232.89.145:57869] logged in with entity id 190 at (587.2357917241729, 67.0, 250.48400817122464)
+[20:10:40] [Server thread/INFO]: AgentBAJ joined the game
+[20:10:42] [User Authenticator #3/INFO]: UUID of player radflag622 is 7d9670e6-bc2f-4943-a6ee-410af51e9cc3
+[20:10:44] [Server thread/INFO]: radflag622[/208.102.195.29:60337] logged in with entity id 1108 at (575.7269483364719, 70.17675927506424, -2220.9353272114886)
+[20:10:44] [Server thread/INFO]: radflag622 joined the game
+[20:10:45] [User Authenticator #4/INFO]: UUID of player TheGameIsAfoot is 4d0f053b-9ec1-4a4e-9e6d-d5178ae6ac2c
+[20:10:47] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:715) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:387) ~[ld.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:613) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:471) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/renderer/block/model/IBakedModel
+	at com.rwtema.extrautils2.backend.XUBlockTESR.createTileEntity(XUBlockTESR.java:94) ~[XUBlockTESR.class:?]
+	at com.rwtema.extrautils2.backend.XUBlockTESR.createTileEntity(XUBlockTESR.java:34) ~[XUBlockTESR.class:?]
+	at net.minecraft.world.chunk.Chunk.func_177422_i(Chunk.java:766) ~[asv.class:?]
+	at net.minecraft.world.chunk.Chunk.func_177424_a(Chunk.java:784) ~[asv.class:?]
+	at net.minecraft.world.World.func_175625_s(World.java:2402) ~[aid.class:?]
+	at com.rwtema.extrautils2.backend.XUBlockTESR.getWorldModel(XUBlockTESR.java:61) ~[XUBlockTESR.class:?]
+	at com.rwtema.extrautils2.backend.XUBlock.addCollisionBoxToListBase(XUBlock.java:207) ~[XUBlock.class:?]
+	at com.rwtema.extrautils2.compatibility.BlockCompat.func_185477_a(BlockCompat.java:95) ~[BlockCompat.class:?]
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185908_a(BlockStateContainer.java:438) ~[art$a.class:?]
+	at net.minecraft.world.World.func_184144_a(World.java:1252) ~[aid.class:?]
+	at net.minecraft.entity.Entity.func_70091_d(Entity.java:639) ~[rw.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70612_e(EntityLivingBase.java:1795) ~[sf.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2217) ~[sf.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) ~[sg.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(SourceFile:47) ~[yx.class:?]
+	at net.minecraft.entity.monster.EntityEnderman.func_70636_d(EntityEnderman.java:225) ~[yq.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2013) ~[sf.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) ~[sg.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(SourceFile:52) ~[yx.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1964) ~[aid.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:839) ~[ls.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1934) ~[aid.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1750) ~[aid.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:620) ~[ls.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:709) ~[MinecraftServer.class:?]
+	... 4 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.renderer.block.model.IBakedModel
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at com.rwtema.extrautils2.backend.XUBlockTESR.createTileEntity(XUBlockTESR.java:94) ~[XUBlockTESR.class:?]
+	at com.rwtema.extrautils2.backend.XUBlockTESR.createTileEntity(XUBlockTESR.java:34) ~[XUBlockTESR.class:?]
+	at net.minecraft.world.chunk.Chunk.func_177422_i(Chunk.java:766) ~[asv.class:?]
+	at net.minecraft.world.chunk.Chunk.func_177424_a(Chunk.java:784) ~[asv.class:?]
+	at net.minecraft.world.World.func_175625_s(World.java:2402) ~[aid.class:?]
+	at com.rwtema.extrautils2.backend.XUBlockTESR.getWorldModel(XUBlockTESR.java:61) ~[XUBlockTESR.class:?]
+	at com.rwtema.extrautils2.backend.XUBlock.addCollisionBoxToListBase(XUBlock.java:207) ~[XUBlock.class:?]
+	at com.rwtema.extrautils2.compatibility.BlockCompat.func_185477_a(BlockCompat.java:95) ~[BlockCompat.class:?]
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185908_a(BlockStateContainer.java:438) ~[art$a.class:?]
+	at net.minecraft.world.World.func_184144_a(World.java:1252) ~[aid.class:?]
+	at net.minecraft.entity.Entity.func_70091_d(Entity.java:639) ~[rw.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70612_e(EntityLivingBase.java:1795) ~[sf.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2217) ~[sf.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) ~[sg.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(SourceFile:47) ~[yx.class:?]
+	at net.minecraft.entity.monster.EntityEnderman.func_70636_d(EntityEnderman.java:225) ~[yq.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2013) ~[sf.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) ~[sg.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(SourceFile:52) ~[yx.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1964) ~[aid.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:839) ~[ls.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1934) ~[aid.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1750) ~[aid.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:620) ~[ls.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:709) ~[MinecraftServer.class:?]
+	... 4 more
+Caused by: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@56ace400 from coremod FMLCorePlugin
+	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:253) ~[FTBserver-1.10.2-12.18.3.2254-universal.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at com.rwtema.extrautils2.backend.XUBlockTESR.createTileEntity(XUBlockTESR.java:94) ~[XUBlockTESR.class:?]
+	at com.rwtema.extrautils2.backend.XUBlockTESR.createTileEntity(XUBlockTESR.java:34) ~[XUBlockTESR.class:?]
+	at net.minecraft.world.chunk.Chunk.func_177422_i(Chunk.java:766) ~[asv.class:?]
+	at net.minecraft.world.chunk.Chunk.func_177424_a(Chunk.java:784) ~[asv.class:?]
+	at net.minecraft.world.World.func_175625_s(World.java:2402) ~[aid.class:?]
+	at com.rwtema.extrautils2.backend.XUBlockTESR.getWorldModel(XUBlockTESR.java:61) ~[XUBlockTESR.class:?]
+	at com.rwtema.extrautils2.backend.XUBlock.addCollisionBoxToListBase(XUBlock.java:207) ~[XUBlock.class:?]
+	at com.rwtema.extrautils2.compatibility.BlockCompat.func_185477_a(BlockCompat.java:95) ~[BlockCompat.class:?]
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185908_a(BlockStateContainer.java:438) ~[art$a.class:?]
+	at net.minecraft.world.World.func_184144_a(World.java:1252) ~[aid.class:?]
+	at net.minecraft.entity.Entity.func_70091_d(Entity.java:639) ~[rw.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70612_e(EntityLivingBase.java:1795) ~[sf.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2217) ~[sf.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) ~[sg.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(SourceFile:47) ~[yx.class:?]
+	at net.minecraft.entity.monster.EntityEnderman.func_70636_d(EntityEnderman.java:225) ~[yq.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2013) ~[sf.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) ~[sg.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(SourceFile:52) ~[yx.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1964) ~[aid.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:839) ~[ls.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1934) ~[aid.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1750) ~[aid.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:620) ~[ls.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:709) ~[MinecraftServer.class:?]
+	... 4 more
+Caused by: java.lang.RuntimeException: Attempted to load class byl for invalid side SERVER
+	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:56) ~[FTBserver-1.10.2-12.18.3.2254-universal.jar:?]
+	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:249) ~[FTBserver-1.10.2-12.18.3.2254-universal.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at com.rwtema.extrautils2.backend.XUBlockTESR.createTileEntity(XUBlockTESR.java:94) ~[XUBlockTESR.class:?]
+	at com.rwtema.extrautils2.backend.XUBlockTESR.createTileEntity(XUBlockTESR.java:34) ~[XUBlockTESR.class:?]
+	at net.minecraft.world.chunk.Chunk.func_177422_i(Chunk.java:766) ~[asv.class:?]
+	at net.minecraft.world.chunk.Chunk.func_177424_a(Chunk.java:784) ~[asv.class:?]
+	at net.minecraft.world.World.func_175625_s(World.java:2402) ~[aid.class:?]
+	at com.rwtema.extrautils2.backend.XUBlockTESR.getWorldModel(XUBlockTESR.java:61) ~[XUBlockTESR.class:?]
+	at com.rwtema.extrautils2.backend.XUBlock.addCollisionBoxToListBase(XUBlock.java:207) ~[XUBlock.class:?]
+	at com.rwtema.extrautils2.compatibility.BlockCompat.func_185477_a(BlockCompat.java:95) ~[BlockCompat.class:?]
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_185908_a(BlockStateContainer.java:438) ~[art$a.class:?]
+	at net.minecraft.world.World.func_184144_a(World.java:1252) ~[aid.class:?]
+	at net.minecraft.entity.Entity.func_70091_d(Entity.java:639) ~[rw.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70612_e(EntityLivingBase.java:1795) ~[sf.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2217) ~[sf.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) ~[sg.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(SourceFile:47) ~[yx.class:?]
+	at net.minecraft.entity.monster.EntityEnderman.func_70636_d(EntityEnderman.java:225) ~[yq.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2013) ~[sf.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) ~[sg.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(SourceFile:52) ~[yx.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1964) ~[aid.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:839) ~[ls.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1934) ~[aid.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1750) ~[aid.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:620) ~[ls.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:709) ~[MinecraftServer.class:?]
+	... 4 more
+[20:10:47] [Server thread/ERROR]: This crash report has been saved to: C:\Users\mario\OneDrive\Servers\Minecraft\FTBBeyondServer\.\crash-reports\crash-2017-03-10_20.10.47-server.txt
+[20:10:47] [Server thread/INFO]: Stopping server
+[20:10:47] [Server thread/INFO]: Saving players
+[20:10:47] [Server thread/INFO]: Saving worlds
+[20:10:47] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[20:10:48] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[20:10:48] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[20:10:48] [Server thread/INFO]: Saving chunks for level 'world'/Deep Dark
+[20:10:48] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[20:10:48] [Server thread/INFO]: Saving chunks for level 'world'/simplevoidworld
+[20:10:48] [Server thread/INFO]: Saving chunks for level 'world'/MiningWorld

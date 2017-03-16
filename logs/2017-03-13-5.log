@@ -1,0 +1,203 @@
+[19:00:50] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[19:01:53] [Server thread/INFO]: Loading properties
+[19:01:53] [Server thread/INFO]: Default game type: SURVIVAL
+[19:01:53] [Server thread/INFO]: Generating keypair
+[19:01:53] [Server thread/INFO]: Starting Minecraft server on *:7878
+[19:01:53] [Server thread/INFO]: Using default channel type
+[19:02:09] [Server thread/INFO]: Preparing level "world"
+[19:02:09] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[19:02:10] [Server thread/INFO]: Preparing start region for level 0
+[19:02:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:02:14] [Server thread/INFO]: Preparing spawn area: 67%
+[19:02:14] [Server thread/INFO]: Done (5.609s)! For help, type "help" or "?"
+[19:02:16] [Server thread/INFO]: FTBLib: Server reloaded in 834ms
+[19:02:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2619ms behind, skipping 52 tick(s)
+[19:02:42] [User Authenticator #1/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[19:02:44] [Server thread/INFO]: davidahs592[/71.211.176.176:57390] logged in with entity id 886 at (557.7420208128555, 67.0, -2159.717881259567)
+[19:02:44] [Server thread/INFO]: davidahs592 joined the game
+[19:02:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2903ms behind, skipping 58 tick(s)
+[19:03:20] [Server thread/INFO]: davidahs592 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:03:20] [Server thread/INFO]: davidahs592 left the game
+[19:03:57] [User Authenticator #2/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[19:03:59] [Server thread/INFO]: davidahs592[/71.211.176.176:57410] logged in with entity id 14783 at (557.7420208128555, 67.0, -2159.717881259567)
+[19:03:59] [Server thread/INFO]: davidahs592 joined the game
+[19:05:29] [Server thread/INFO]: davidahs592 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:05:29] [Server thread/INFO]: davidahs592 left the game
+[19:09:09] [User Authenticator #3/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[19:09:11] [Server thread/INFO]: davidahs592[/71.211.176.176:57713] logged in with entity id 65039 at (557.7420208128555, 67.0, -2159.717881259567)
+[19:09:11] [Server thread/INFO]: davidahs592 joined the game
+[19:10:00] [Server thread/INFO]: davidahs592 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:10:00] [Server thread/INFO]: davidahs592 left the game
+[19:15:05] [User Authenticator #4/INFO]: UUID of player St4rF4x is 224a4049-d5a5-4fa5-8ddf-a67f16b3e891
+[19:15:06] [Server thread/INFO]: St4rF4x[/71.203.97.46:52326] logged in with entity id 119769 at (1166.6477768789807, 11.0, -876.6070673310065)
+[19:15:06] [Server thread/INFO]: St4rF4x joined the game
+[19:15:44] [User Authenticator #5/INFO]: UUID of player DiamondKing504 is 509ad8ee-dd05-4ea6-bb86-5227fefa7be6
+[19:15:45] [Server thread/INFO]: DiamondKing504[/69.144.148.130:54489] logged in with entity id 126131 at (577.8837048540471, 77.23752482599775, -2143.6822202697867)
+[19:15:45] [Server thread/INFO]: DiamondKing504 joined the game
+[19:16:42] [Server thread/INFO]: DiamondKing504 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:16:42] [Server thread/INFO]: DiamondKing504 left the game
+[19:22:14] [User Authenticator #6/INFO]: UUID of player Radioslime is 305d6c50-5482-45a4-9b5f-038d84e7f53a
+[19:22:16] [Server thread/INFO]: Radioslime[/50.21.206.77:53026] logged in with entity id 191412 at (-914.9614320817775, 11.252203340253725, -3459.0833018910143)
+[19:22:16] [Server thread/INFO]: Radioslime joined the game
+[19:24:45] [User Authenticator #7/INFO]: UUID of player radflag622 is 7d9670e6-bc2f-4943-a6ee-410af51e9cc3
+[19:24:46] [Server thread/INFO]: radflag622[/208.102.195.29:57251] logged in with entity id 217504 at (557.7035884718018, 67.0, -2167.4081427091596)
+[19:24:46] [Server thread/INFO]: radflag622 joined the game
+[19:25:38] [User Authenticator #8/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[19:25:40] [Server thread/INFO]: davidahs592[/71.211.176.176:58261] logged in with entity id 228803 at (557.7420208128555, 67.0, -2159.717881259567)
+[19:25:40] [Server thread/INFO]: davidahs592 joined the game
+[19:26:48] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:26:48] [Server thread/INFO]: davidahs592 left the game
+[19:28:12] [Server thread/INFO]: <Radioslime> are you laging?
+[19:29:07] [Server thread/INFO]: <Radioslime> St4rF4x are you laging
+[19:29:55] [Server thread/INFO]: Radioslime lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:29:55] [Server thread/INFO]: Radioslime left the game
+[19:30:48] [Server thread/WARN]: radflag622 moved too quickly! -6.441963294106586,2.9691373812397046,7.291337370209931
+[19:30:58] [User Authenticator #9/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[19:30:59] [Server thread/INFO]: <radflag622> starfax what are you doing/
+[19:31:00] [Server thread/INFO]: davidahs592[/71.211.176.176:58449] logged in with entity id 278541 at (557.7420208128555, 67.0, -2159.717881259567)
+[19:31:00] [Server thread/INFO]: davidahs592 joined the game
+[19:31:11] [Server thread/INFO]: <St4rF4x> mining
+[19:36:04] [Server thread/WARN]: davidahs592 moved too quickly! 7.741325014580752,-2.9569947815388105,6.213480949601944
+[19:37:36] [User Authenticator #10/INFO]: UUID of player WTRXGamer is ab42184a-18dc-4fe0-9259-c74f9a829310
+[19:37:37] [Server thread/INFO]: WTRXGamer[/70.122.214.59:48712] logged in with entity id 303909 at (710.3023972644363, 58.0, 3201.0010763217138)
+[19:37:37] [Server thread/INFO]: WTRXGamer joined the game
+[19:40:21] [Server thread/INFO]: <WTRXGamer> lag
+[19:40:25] [Server thread/INFO]: <WTRXGamer> wait, no
+[19:41:28] [Server thread/INFO]: WTRXGamer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:41:28] [Server thread/INFO]: WTRXGamer left the game
+[19:43:10] [User Authenticator #11/INFO]: UUID of player WTRXGamer is ab42184a-18dc-4fe0-9259-c74f9a829310
+[19:43:12] [Server thread/INFO]: WTRXGamer[/70.122.214.59:48812] logged in with entity id 328276 at (699.923898183721, 58.0, 3201.936912407752)
+[19:43:12] [Server thread/INFO]: WTRXGamer joined the game
+[19:44:19] [Server thread/WARN]: davidahs592 moved too quickly! 6.925248408507855,6.925925646492388,2.477575862997128
+[19:46:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2487ms behind, skipping 49 tick(s)
+[19:47:01] [Server thread/WARN]: davidahs592 moved too quickly! -508.68528861928314,45.0,1900.0
+[19:47:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2074ms behind, skipping 41 tick(s)
+[19:47:36] [User Authenticator #12/INFO]: UUID of player onContentStop is a5a02fa8-538d-4d71-ab71-f8d847398cd8
+[19:47:36] [Server thread/INFO]: onContentStop[/192.168.0.1:50492] logged in with entity id 353309 at (690.9864378609217, 56.0, 3196.530511058155)
+[19:47:36] [Server thread/INFO]: onContentStop joined the game
+[19:48:05] [Server thread/WARN]: davidahs592 moved too quickly! -6.813429640408756,1.4297915126927734,7.644313789892578
+[19:48:05] [Server thread/INFO]: <onContentStop> spit on this please
+[19:48:12] [Server thread/INFO]: <onContentStop> sneak
+[19:48:17] [Server thread/INFO]: <WTRXGamer> thanks
+[19:48:26] [Server thread/INFO]: <onContentStop> ok you're good
+[19:48:28] [Server thread/INFO]: <WTRXGamer> Why is your jetpack cooler than mine?
+[19:48:33] [Server thread/INFO]: <onContentStop> i put armor on it
+[19:48:41] [Server thread/INFO]: <onContentStop> also its not from ic2
+[19:48:50] [Server thread/WARN]: davidahs592 moved too quickly! -5.523656993370935,4.687699590725387,7.013384113188124
+[19:49:16] [Server thread/INFO]: <WTRXGamer> Completed your Senior Scrapbook yet?
+[19:49:18] [Server thread/INFO]: <onContentStop> yeah
+[19:49:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2249ms behind, skipping 44 tick(s)
+[19:49:58] [Server thread/INFO]: <WTRXGamer> We need to clean this place up
+[19:50:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2050ms behind, skipping 41 tick(s)
+[19:51:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2011ms behind, skipping 40 tick(s)
+[19:51:05] [Server thread/WARN]: WTRXGamer moved too quickly! -1.5582802055827187,8.264781013234753,-6.1795032717441245
+[19:51:05] [Server thread/WARN]: onContentStop moved too quickly! 4.584679786373627,0.0,9.022892803488276
+[19:51:12] [Server thread/WARN]: WTRXGamer moved too quickly! -6.77907134855036,-4.639015612866629,-5.964633618148127
+[19:51:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2183ms behind, skipping 43 tick(s)
+[19:51:50] [Server thread/WARN]: davidahs592 moved too quickly! -10.319893734900688,0.0,-1.2286898659557437
+[19:51:50] [Server thread/WARN]: WTRXGamer moved too quickly! -7.942705944114323,-3.524787173975028,5.097916841559254
+[19:51:54] [Server thread/WARN]: WTRXGamer moved too quickly! -4.658447295485985,8.75954877313022,1.6011304416224448
+[19:51:54] [Server thread/WARN]: davidahs592 moved too quickly! -10.278047274809694,-0.9261969052891388,-0.343600888517301
+[19:52:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2577ms behind, skipping 51 tick(s)
+[19:52:36] [Server thread/WARN]: onContentStop moved too quickly! -0.5328614517717654,0.2899704088122803,10.007837770038634
+[19:52:58] [Server thread/INFO]: WTRXGamer has just earned the achievement [Network Aesthetics]
+[19:53:21] [Server thread/WARN]: davidahs592 moved too quickly! -8.394852817304354,2.3742933130965582,5.5845926668314405
+[19:53:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2467ms behind, skipping 49 tick(s)
+[19:53:58] [Server thread/INFO]: radflag622 has just earned the achievement [Crafting Maestro]
+[19:54:02] [Server thread/INFO]: onContentStop has just earned the achievement [Network Apprentice]
+[19:54:11] [Server thread/INFO]: <onContentStop> ???
+[19:54:47] [User Authenticator #13/INFO]: UUID of player QuasarKnight is 25fdef64-d48e-41f0-86e1-b53aec7a4bf3
+[19:54:49] [Server thread/INFO]: QuasarKnight[/104.189.187.230:49960] logged in with entity id 395340 at (700.2169507627796, 54.481250047683716, 3209.724242559981)
+[19:54:49] [Server thread/INFO]: QuasarKnight joined the game
+[19:54:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2693ms behind, skipping 53 tick(s)
+[19:55:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2733ms behind, skipping 54 tick(s)
+[19:55:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4795ms behind, skipping 95 tick(s)
+[19:55:47] [Server thread/WARN]: davidahs592 moved too quickly! 6.247410173857816,5.493148237392319,-5.771273838928209
+[19:55:47] [Server thread/WARN]: QuasarKnight moved too quickly! 1.7191850498178383,0.40650268667327083,-9.920157832738823
+[19:56:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5248ms behind, skipping 104 tick(s)
+[19:56:59] [Server thread/INFO]: [onContentStop: Given [MFFS Projector] * 1 to onContentStop]
+[19:57:10] [Server thread/INFO]: [onContentStop: Given [Projector Upgrade: Field Distance] * 64 to onContentStop]
+[19:57:14] [Server thread/WARN]: davidahs592 moved too quickly! -5.730093023191785,0.0,8.464375583700075
+[19:59:28] [Server thread/WARN]: St4rF4x moved too quickly! 1.0757310020815112,2.0,-9.86384790611919
+[19:59:58] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_121]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_121]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:387) [ld.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:613) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:471) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at com.nekokittygames.mffs.common.item.ItemCardEmpty.func_180614_a(ItemCardEmpty.java:93) ~[ItemCardEmpty.class:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:780) ~[ForgeHooks.class:?]
+	at net.minecraft.item.ItemStack.func_179546_a(ItemStack.java:144) ~[adz.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:493) ~[lv.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:679) ~[me.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[jj.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[jj.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[fl$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_121]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_121]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:45) ~[h.class:?]
+	... 5 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.I18n
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at com.nekokittygames.mffs.common.item.ItemCardEmpty.func_180614_a(ItemCardEmpty.java:93) ~[ItemCardEmpty.class:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:780) ~[ForgeHooks.class:?]
+	at net.minecraft.item.ItemStack.func_179546_a(ItemStack.java:144) ~[adz.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:493) ~[lv.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:679) ~[me.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[jj.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[jj.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[fl$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_121]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_121]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:45) ~[h.class:?]
+	... 5 more
+Caused by: java.lang.NullPointerException
+[20:00:27] [Server thread/INFO]: [onContentStop: Given [Projector Option: Zapper] * 1 to onContentStop]
+[20:00:38] [Server thread/INFO]: [onContentStop: Given [MFFS Card: Empty] * 1 to onContentStop]
+[20:01:11] [Server thread/INFO]: [onContentStop: Given [Projector Module: Cube] * 1 to onContentStop]
+[20:02:08] [Server thread/INFO]: [onContentStop: Given [Projector Option: Defence Station] * 1 to onContentStop]
+[20:02:29] [Server thread/WARN]: St4rF4x moved too quickly! -10.07944108025913,0.0,-0.5399922355618401
+[20:02:41] [Server thread/INFO]: [onContentStop: Given [Projector Option: Camoflage] * 1 to onContentStop]
+[20:02:42] [Server thread/INFO]: radflag622 has just earned the achievement [Next Gen Crafting]
+[20:03:14] [Server thread/INFO]: [onContentStop: Saved the world]
+[20:03:18] [Server thread/INFO]: Server Backup started!
+[20:03:18] [Server thread/INFO]: Turned off world auto-saving
+[20:03:18] [Server thread/INFO]: Saving...
+[20:03:20] [Server thread/INFO]: Saved the world
+[20:03:20] [Server thread/INFO]: onContentStop launched a manual backup!
+[20:04:08] [Thread-37/INFO]: Server backup done in 00:00:48! (1.1GB | 13.8GB)
+[20:04:08] [Server thread/INFO]: Turned on world auto-saving
+[20:04:22] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Ticking block entity
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:715) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:387) ~[ld.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:613) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:471) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+Caused by: java.lang.NullPointerException
+	at com.nekokittygames.mffs.common.tileentity.TileEntityProjector.FieldGenerate(TileEntityProjector.java:724) ~[TileEntityProjector.class:?]
+	at com.nekokittygames.mffs.common.tileentity.TileEntityProjector.func_73660_a(TileEntityProjector.java:497) ~[TileEntityProjector.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1804) ~[aid.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:620) ~[ls.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:709) ~[MinecraftServer.class:?]
+	... 4 more
+[20:04:22] [Server thread/ERROR]: This crash report has been saved to: C:\Users\mario\OneDrive\Servers\Minecraft\FTBBeyondServer\.\crash-reports\crash-2017-03-13_20.04.22-server.txt
+[20:04:22] [Server thread/INFO]: Stopping server
+[20:04:22] [Server thread/INFO]: Saving players
+[20:04:22] [Server thread/INFO]: Saving worlds
+[20:04:22] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[20:04:24] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[20:04:24] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[20:04:24] [Server thread/INFO]: Saving chunks for level 'world'/Deep Dark
+[20:04:24] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[20:04:24] [Server thread/INFO]: Saving chunks for level 'world'/simplevoidworld
+[20:04:24] [Server thread/INFO]: Saving chunks for level 'world'/MiningWorld
+[20:04:27] [Server Shutdown Thread/INFO]: Stopping server
+[20:04:27] [Server Shutdown Thread/INFO]: Saving players

@@ -1,0 +1,63 @@
+[20:08:59] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[20:09:53] [Server thread/INFO]: Loading properties
+[20:09:53] [Server thread/INFO]: Default game type: SURVIVAL
+[20:09:53] [Server thread/INFO]: Generating keypair
+[20:09:53] [Server thread/INFO]: Starting Minecraft server on *:7878
+[20:09:53] [Server thread/INFO]: Using default channel type
+[20:10:06] [Server thread/INFO]: Preparing level "world"
+[20:10:07] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[20:10:07] [Server thread/INFO]: Preparing start region for level 0
+[20:10:09] [Server thread/INFO]: Preparing spawn area: 1%
+[20:10:10] [Server thread/INFO]: Done (4.704s)! For help, type "help" or "?"
+[20:10:12] [Server thread/INFO]: FTBLib: Server reloaded in 685ms
+[20:10:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2165ms behind, skipping 43 tick(s)
+[20:10:28] [User Authenticator #1/INFO]: UUID of player onContentStop is a5a02fa8-538d-4d71-ab71-f8d847398cd8
+[20:10:29] [Server thread/INFO]: onContentStop[/192.168.0.1:50827] logged in with entity id 707 at (699.3004334367874, 58.0, 3202.375130826756)
+[20:10:29] [Server thread/INFO]: onContentStop joined the game
+[20:10:30] [User Authenticator #2/INFO]: UUID of player radflag622 is 7d9670e6-bc2f-4943-a6ee-410af51e9cc3
+[20:10:31] [User Authenticator #3/INFO]: UUID of player QuasarKnight is 25fdef64-d48e-41f0-86e1-b53aec7a4bf3
+[20:10:32] [Server thread/INFO]: radflag622[/208.102.195.29:57573] logged in with entity id 767 at (568.6408054078652, 59.0, -2159.8010748449406)
+[20:10:32] [Server thread/INFO]: radflag622 joined the game
+[20:10:36] [Server thread/INFO]: QuasarKnight[/104.189.187.230:50048] logged in with entity id 878 at (700.7407601965298, 49.0, 3209.907837804021)
+[20:10:36] [Server thread/INFO]: QuasarKnight joined the game
+[20:10:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4909ms behind, skipping 98 tick(s)
+[20:10:40] [User Authenticator #4/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[20:10:43] [Server thread/INFO]: davidahs592[/71.211.176.176:58730] logged in with entity id 1559 at (721.0682003679017, 45.174475689971295, -2235.9735648200967)
+[20:10:43] [Server thread/INFO]: davidahs592 joined the game
+[20:10:58] [User Authenticator #5/INFO]: UUID of player WTRXGamer is ab42184a-18dc-4fe0-9259-c74f9a829310
+[20:11:00] [Server thread/INFO]: WTRXGamer[/70.122.214.59:48982] logged in with entity id 3007 at (695.5460952345123, 67.10456533216649, 3197.5400366731046)
+[20:11:00] [Server thread/INFO]: WTRXGamer joined the game
+[20:11:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2019ms behind, skipping 40 tick(s)
+[20:12:22] [User Authenticator #6/INFO]: UUID of player St4rF4x is 224a4049-d5a5-4fa5-8ddf-a67f16b3e891
+[20:12:23] [Server thread/INFO]: St4rF4x[/71.203.97.46:52471] logged in with entity id 10301 at (1051.5090432631835, 51.17675927506424, -1488.038985822486)
+[20:12:23] [Server thread/INFO]: St4rF4x joined the game
+[20:12:24] [Server thread/INFO]: St4rF4x lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:12:24] [Server thread/INFO]: St4rF4x left the game
+[20:12:40] [User Authenticator #7/INFO]: UUID of player St4rF4x is 224a4049-d5a5-4fa5-8ddf-a67f16b3e891
+[20:12:41] [Server thread/INFO]: St4rF4x[/71.203.97.46:52477] logged in with entity id 11806 at (1051.5090432631835, 51.17675927506424, -1488.038985822486)
+[20:12:41] [Server thread/INFO]: St4rF4x joined the game
+[20:15:02] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Ticking block entity
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:715) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:387) ~[ld.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:613) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:471) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+Caused by: java.lang.NullPointerException
+	at com.nekokittygames.mffs.common.tileentity.TileEntityProjector.FieldGenerate(TileEntityProjector.java:724) ~[TileEntityProjector.class:?]
+	at com.nekokittygames.mffs.common.tileentity.TileEntityProjector.func_73660_a(TileEntityProjector.java:497) ~[TileEntityProjector.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1804) ~[aid.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:620) ~[ls.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:709) ~[MinecraftServer.class:?]
+	... 4 more
+[20:15:02] [Server thread/ERROR]: This crash report has been saved to: C:\Users\mario\OneDrive\Servers\Minecraft\FTBBeyondServer\.\crash-reports\crash-2017-03-13_20.15.02-server.txt
+[20:15:02] [Server thread/INFO]: Stopping server
+[20:15:02] [Server thread/INFO]: Saving players
+[20:15:03] [Server thread/INFO]: Saving worlds
+[20:15:03] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[20:15:04] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[20:15:04] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[20:15:04] [Server thread/INFO]: Saving chunks for level 'world'/Deep Dark
+[20:15:04] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[20:15:04] [Server thread/INFO]: Saving chunks for level 'world'/simplevoidworld
+[20:15:04] [Server thread/INFO]: Saving chunks for level 'world'/MiningWorld

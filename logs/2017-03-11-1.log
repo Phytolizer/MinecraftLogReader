@@ -1,0 +1,42 @@
+[00:04:57] [Server thread/INFO]: [Creepini: Teleported DiamondKing504 to Creepini]
+[00:10:28] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:11:33] [Server thread/INFO]: [Creepini: Teleported DiamondKing504 to Creepini]
+[00:12:11] [Server thread/INFO]: [Creepini: Teleported Creepini to DiamondKing504]
+[00:14:54] [Server thread/INFO]: [Creepini: Set the display objective in slot 'belowName' to 'Health']
+[00:18:52] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:20:12] [Server thread/INFO]: DiamondKing504 burned to death
+[00:20:50] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:21:20] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:21:22] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:22:06] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:24:17] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:24:42] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:25:28] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:28:19] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:29:32] [Server thread/WARN]: Creepini moved wrongly!
+[00:30:25] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:31:02] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:32:11] [Server thread/INFO]: [Creepini: Teleported DiamondKing504 to Creepini]
+[00:33:24] [Server thread/INFO]: [Creepini: Teleported DiamondKing504 to Creepini]
+[00:35:22] [Server thread/INFO]: Server Backup started!
+[00:35:22] [Server thread/INFO]: Turned off world auto-saving
+[00:35:22] [Server thread/INFO]: Saving...
+[00:35:22] [Server thread/INFO]: Saved the world
+[00:35:59] [Thread-50/INFO]: Server backup done in 00:00:36! (588.3MB | 4.2GB)
+[00:35:59] [Server thread/INFO]: Turned on world auto-saving
+[00:50:25] [Server thread/WARN]: DiamondKing504 moved wrongly!
+[00:53:20] [Server thread/INFO]: [Creepini: Saved the world]
+[00:53:21] [Server thread/INFO]: DiamondKing504 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:53:21] [Server thread/INFO]: DiamondKing504 left the game
+[00:53:21] [Server thread/INFO]: [Creepini: Stopping the server]
+[00:53:21] [Server thread/INFO]: Stopping server
+[00:53:21] [Server thread/INFO]: Saving players
+[00:53:21] [Server thread/INFO]: Saving worlds
+[00:53:21] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:53:21] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[00:53:21] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[00:53:21] [Server thread/INFO]: Saving chunks for level 'world'/Deep Dark
+[00:53:21] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[00:53:21] [Server thread/INFO]: Saving chunks for level 'world'/simplevoidworld
+[00:53:21] [Server thread/INFO]: Saving chunks for level 'world'/MiningWorld
+[00:53:22] [Server Shutdown Thread/INFO]: Stopping server

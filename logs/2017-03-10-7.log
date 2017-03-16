@@ -1,0 +1,203 @@
+[22:34:28] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[22:35:12] [Server thread/INFO]: Loading properties
+[22:35:12] [Server thread/INFO]: Default game type: SURVIVAL
+[22:35:12] [Server thread/INFO]: Generating keypair
+[22:35:12] [Server thread/INFO]: Starting Minecraft server on *:7878
+[22:35:12] [Server thread/INFO]: Using epoll channel type
+[22:35:22] [Server thread/INFO]: Preparing level "world"
+[22:35:23] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[22:35:23] [Server thread/INFO]: Preparing start region for level 0
+[22:35:24] [Server thread/INFO]: Preparing spawn area: 0%
+[22:35:25] [Server thread/INFO]: Done (3.385s)! For help, type "help" or "?"
+[22:35:26] [Server thread/INFO]: FTBLib: Server reloaded in 579ms
+[22:35:48] [User Authenticator #1/INFO]: UUID of player Creepini is e1cae796-a835-44ba-b79e-9a810d9cd1ea
+[22:35:50] [Server thread/INFO]: Creepini[/192.168.0.1:54300] logged in with entity id 194 at (561.6189795998615, 67.59000000357628, -2167.3803526658744)
+[22:35:50] [Server thread/INFO]: Creepini joined the game
+[22:36:08] [User Authenticator #2/INFO]: UUID of player radflag622 is 7d9670e6-bc2f-4943-a6ee-410af51e9cc3
+[22:36:10] [Server thread/INFO]: radflag622[/208.102.195.29:61236] logged in with entity id 761 at (675.3000000119209, 41.0, -2195.699999988079)
+[22:36:10] [Server thread/INFO]: radflag622 joined the game
+[22:37:17] [User Authenticator #3/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[22:37:19] [Server thread/INFO]: davidahs592[/71.211.176.176:61214] logged in with entity id 2950 at (654.1367400897502, 28.0, -2233.6146937511735)
+[22:37:19] [Server thread/INFO]: davidahs592 joined the game
+[22:37:51] [Server thread/INFO]: Creepini has just earned the achievement [Suitable Power]
+[22:40:14] [Server thread/WARN]: Tried to over-fill a container
+[22:42:04] [Server thread/INFO]: [Creepini: Teleported davidahs592 to Creepini]
+[22:45:30] [User Authenticator #4/INFO]: UUID of player Kelloggamer is ae7dc577-061c-44fa-b3bc-33a8e80186c7
+[22:45:32] [Server thread/INFO]: Kelloggamer[/108.71.182.76:59934] logged in with entity id 22168 at (588.5774236741959, 71.0, -2154.694350654019)
+[22:45:32] [Server thread/INFO]: Kelloggamer joined the game
+[22:46:42] [Server thread/WARN]: radflag622 moved too quickly! 11.090618977372117,-0.3033814498697893,0.2207515912132294
+[22:46:42] [Server thread/WARN]: Kelloggamer moved too quickly! 0.7117890649682295,-0.33709049985532147,-10.308709625063784
+[22:46:52] [Server thread/INFO]: [Creepini: Teleported radflag622 to davidahs592]
+[22:47:42] [Server thread/INFO]: [Creepini: Changing to clear weather]
+[22:48:12] [Server thread/WARN]: radflag622 moved too quickly! -6.133792111379535,-0.3033814498697893,-8.404508434699892
+[22:50:11] [Server thread/INFO]: Kelloggamer has just earned the achievement [Sniper Duel]
+[22:53:28] [User Authenticator #5/INFO]: UUID of player WTRXGamer is ab42184a-18dc-4fe0-9259-c74f9a829310
+[22:53:30] [Server thread/INFO]: WTRXGamer[/70.122.214.59:40350] logged in with entity id 36537 at (698.3000000119209, 58.0, 3202.845430754958)
+[22:53:30] [Server thread/INFO]: WTRXGamer joined the game
+[22:55:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3359ms behind, skipping 67 tick(s)
+[22:57:39] [Server thread/WARN]: radflag622 moved too quickly! -509.19999998807907,45.0,1900.0
+[22:58:44] [Server thread/WARN]: WTRXGamer moved too quickly! -9.10528957057106,-0.01667121866302068,-5.934867532628687
+[22:58:46] [Server thread/WARN]: WTRXGamer moved too quickly! -6.08894112415247,-7.61931066243001,-3.968772748037736
+[22:58:57] [Server thread/WARN]: WTRXGamer moved too quickly! -8.982427701273664,-0.07762215590054211,-5.849158140460986
+[22:59:01] [Server thread/WARN]: WTRXGamer moved too quickly! -8.566497829118447,2.9243302524002672,-5.583644453146462
+[22:59:26] [Server thread/WARN]: radflag622 moved too quickly! -2.232816275943833,-0.5393447997685143,10.075852297625374
+[22:59:26] [Server thread/WARN]: WTRXGamer moved too quickly! -8.353780093331409,-0.5942128732477272,-6.655596842904288
+[22:59:29] [Server thread/WARN]: radflag622 moved too quickly! -9.543311430514748,-0.7333544021787617,3.853878765893114
+[22:59:29] [Server thread/WARN]: WTRXGamer moved too quickly! -7.421856598550676,1.002513419001673,-6.8931933633066365
+[22:59:45] [Server thread/WARN]: radflag622 moved too quickly! -5.570119581049932,-0.5730538497540465,8.66958112878794
+[22:59:45] [Server thread/WARN]: WTRXGamer moved too quickly! -3.4378089582576195,-0.21155654791846246,-10.178837367373035
+[23:00:09] [Server thread/WARN]: WTRXGamer moved too quickly! -4.178682212743297,0.5567589944803899,-9.481108202282485
+[23:00:09] [Server thread/WARN]: radflag622 moved too quickly! 7.6588095041313355,-0.5056383635921833,-7.3574985200782805
+[23:00:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3111ms behind, skipping 62 tick(s)
+[23:00:14] [Server thread/WARN]: WTRXGamer moved too quickly! -5.109453314042298,-0.5690507896226791,-8.638789462534305
+[23:00:14] [Server thread/WARN]: radflag622 moved too quickly! 9.511507828057074,-0.5393447997685143,-4.615129960750778
+[23:00:16] [Server thread/WARN]: radflag622 moved too quickly! 9.845418784641112,-0.5730538497527107,-1.856867568170145
+[23:00:16] [Server thread/WARN]: WTRXGamer moved too quickly! -5.273657252291514,1.8868936052735847,-8.898876237295099
+[23:00:24] [Server thread/WARN]: WTRXGamer moved too quickly! -3.4497047940067205,1.5898568684110614,-9.922767357163366
+[23:00:24] [Server thread/WARN]: radflag622 moved too quickly! 8.102500179879755,-0.5393447997685143,6.7595887774079415
+[23:00:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2593ms behind, skipping 51 tick(s)
+[23:00:32] [Server thread/WARN]: WTRXGamer moved too quickly! -0.16548103402840297,3.5517771571695818,-9.773592375099724
+[23:00:39] [Server thread/WARN]: radflag622 moved too quickly! 9.63024692943145,-0.6053443064861312,-4.63204175813604
+[23:00:39] [Server thread/WARN]: WTRXGamer moved too quickly! 0.0024465903406962752,0.3664062271823667,-10.513043521872987
+[23:00:48] [Server thread/WARN]: WTRXGamer moved too quickly! 0.0024465903406962752,1.99625500078821,-10.6138188479988
+[23:00:48] [Server thread/WARN]: radflag622 moved too quickly! 1.6906924622813904,-0.5393447997684007,-10.38312863387253
+[23:00:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2298ms behind, skipping 45 tick(s)
+[23:01:03] [Server thread/WARN]: WTRXGamer moved too quickly! -4.152867622906342E-4,2.770356671197888,-10.01450886036855
+[23:01:08] [Server thread/WARN]: WTRXGamer moved too quickly! -9.301660975324921E-4,-0.6551146532350174,-10.423285760337876
+[23:01:10] [Server thread/WARN]: Creepini moved too quickly! 8.674017151837234,0.33572819854033753,5.8671432589526376
+[23:01:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13725ms behind, skipping 274 tick(s)
+[23:01:20] [Server thread/WARN]: WTRXGamer moved too quickly! -8.061439511948265E-4,4.146590349619231,-10.045107951923
+[23:01:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4011ms behind, skipping 80 tick(s)
+[23:01:35] [Server thread/WARN]: WTRXGamer moved too quickly! -8.061439511948265E-4,-2.0710655600052092,-9.965522222102209
+[23:01:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5458ms behind, skipping 109 tick(s)
+[23:02:04] [Server thread/WARN]: Creepini moved too quickly! 6.912756284209422,-8.505954137686661,-0.3116033697201601
+[23:05:48] [Server thread/WARN]: radflag622 moved too quickly! -2.35619859337487,-0.23596334989872503,10.899981428142382
+[23:05:59] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:05:59] [Server thread/INFO]: davidahs592 left the game
+[23:06:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2156ms behind, skipping 43 tick(s)
+[23:06:34] [Server thread/WARN]: WTRXGamer moved too quickly! 8.240447969774664,1.2491870787446828,-5.883739193981796
+[23:07:08] [User Authenticator #6/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[23:07:10] [Server thread/INFO]: davidahs592[/71.211.176.176:61488] logged in with entity id 97563 at (178.273769639852, 31.0, -2255.478152176148)
+[23:07:10] [Server thread/INFO]: davidahs592 joined the game
+[23:08:04] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:08:04] [Server thread/INFO]: davidahs592 left the game
+[23:08:05] [Server thread/WARN]: WTRXGamer moved too quickly! 9.632367542127554,-0.9718895791026512,2.830598573155328
+[23:10:28] [User Authenticator #7/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[23:10:30] [Server thread/INFO]: davidahs592[/71.211.176.176:61502] logged in with entity id 105971 at (178.273769639852, 31.0, -2255.478152176148)
+[23:10:30] [Server thread/INFO]: davidahs592 joined the game
+[23:11:09] [Server thread/INFO]: davidahs592 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:11:09] [Server thread/INFO]: davidahs592 left the game
+[23:12:15] [User Authenticator #8/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[23:12:17] [Server thread/INFO]: davidahs592[/71.211.176.176:61514] logged in with entity id 112627 at (178.273769639852, 31.0, -2255.478152176148)
+[23:12:17] [Server thread/INFO]: davidahs592 joined the game
+[23:14:35] [User Authenticator #9/INFO]: UUID of player DiamondKing504 is 509ad8ee-dd05-4ea6-bb86-5227fefa7be6
+[23:14:36] [Server thread/INFO]: DiamondKing504[/69.144.148.130:58079] logged in with entity id 121493 at (565.5476237477449, 67.0, -2166.55066362689)
+[23:14:36] [Server thread/INFO]: DiamondKing504 joined the game
+[23:15:40] [Server thread/INFO]: [Creepini: Teleported radflag622 to davidahs592]
+[23:15:56] [Server thread/INFO]: davidahs592 was shot by radflag622
+[23:16:06] [Server thread/INFO]: <DiamondKing504> hey, We\ston?
+[23:16:10] [Server thread/INFO]: <DiamondKing504> fail
+[23:16:23] [Server thread/INFO]: davidahs592 suffocated in a wall
+[23:16:27] [Server thread/INFO]: <DiamondKing504> RIP
+[23:17:02] [Server thread/INFO]: davidahs592 suffocated in a wall
+[23:17:20] [Server thread/INFO]: davidahs592 fell out of the world
+[23:17:28] [Server thread/INFO]: <DiamondKing504> what?
+[23:17:29] [Server thread/INFO]: <Creepini> plz explain
+[23:17:29] [Server thread/INFO]: <DiamondKing504> whatt?
+[23:17:30] [Server thread/INFO]: <Kelloggamer> hacks
+[23:17:32] [Server thread/INFO]: <Creepini> how you managed that
+[23:17:49] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:17:49] [Server thread/INFO]: davidahs592 left the game
+[23:18:41] [Server thread/INFO]: WTRXGamer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:18:41] [Server thread/INFO]: WTRXGamer left the game
+[23:18:42] [User Authenticator #10/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[23:18:44] [Server thread/INFO]: davidahs592[/71.211.176.176:61603] logged in with entity id 138614 at (168.5, -89.95839205182305, -2230.5)
+[23:18:44] [Server thread/INFO]: davidahs592 joined the game
+[23:19:45] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:19:45] [Server thread/INFO]: davidahs592 left the game
+[23:20:21] [User Authenticator #11/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[23:20:23] [Server thread/INFO]: davidahs592[/71.211.176.176:61613] logged in with entity id 144220 at (168.5, -89.95839205182305, -2230.5)
+[23:20:23] [Server thread/INFO]: davidahs592 joined the game
+[23:21:33] [Server thread/WARN]: DiamondKing504 moved too quickly! -4.445624436557523,1.3011832095956208,9.339322396353055
+[23:21:41] [Server thread/WARN]: DiamondKing504 moved too quickly! -3.819042008553083,-6.007100957585223,7.565465432233395
+[23:22:53] [Server thread/WARN]: DiamondKing504 moved too quickly! -3.363893788382711,0.0,9.783727397942585
+[23:23:03] [Server thread/WARN]: DiamondKing504 moved too quickly! 5.369347754486398,0.5568312915367386,8.936800196470358
+[23:24:44] [Server thread/INFO]: [Creepini: Teleported davidahs592 to Creepini]
+[23:24:50] [Server thread/WARN]: Kelloggamer moved wrongly!
+[23:24:55] [Server thread/INFO]: Creepini has just earned the achievement [Super Treetap]
+[23:26:16] [Server thread/INFO]: radflag622 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:26:16] [Server thread/INFO]: radflag622 left the game
+[23:26:21] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:26:21] [Server thread/INFO]: davidahs592 left the game
+[23:26:29] [Server thread/INFO]: Kelloggamer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:26:29] [Server thread/INFO]: Kelloggamer left the game
+[23:27:09] [User Authenticator #12/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[23:27:11] [Server thread/INFO]: davidahs592[/71.211.176.176:61665] logged in with entity id 178225 at (565.6789230288939, 68.0, -2165.7161606493974)
+[23:27:11] [Server thread/INFO]: davidahs592 joined the game
+[23:28:55] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:28:55] [Server thread/INFO]: davidahs592 left the game
+[23:30:10] [User Authenticator #13/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[23:30:12] [Server thread/INFO]: davidahs592[/71.211.176.176:61895] logged in with entity id 183024 at (565.6789230288939, 68.0, -2165.7161606493974)
+[23:30:12] [Server thread/INFO]: davidahs592 joined the game
+[23:31:32] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:31:32] [Server thread/INFO]: davidahs592 left the game
+[23:33:13] [User Authenticator #14/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[23:33:16] [Server thread/INFO]: davidahs592[/71.211.176.176:61908] logged in with entity id 188340 at (565.6789230288939, 68.0, -2165.7161606493974)
+[23:33:16] [Server thread/INFO]: davidahs592 joined the game
+[23:33:46] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:33:46] [Server thread/INFO]: davidahs592 left the game
+[23:33:56] [User Authenticator #15/INFO]: UUID of player WTRXGamer is ab42184a-18dc-4fe0-9259-c74f9a829310
+[23:33:57] [Server thread/INFO]: WTRXGamer[/70.122.214.59:40490] logged in with entity id 189154 at (694.1400315714199, 56.0, 3200.3957553331297)
+[23:33:57] [Server thread/INFO]: WTRXGamer joined the game
+[23:34:00] [Server thread/INFO]: <Creepini> Heyo
+[23:34:03] [Server thread/INFO]: <WTRXGamer> hey
+[23:34:11] [Server thread/INFO]: <DiamondKing504> Hi
+[23:34:18] [Server thread/INFO]: <DiamondKing504> Do you have some of my stuff?
+[23:34:40] [Server thread/INFO]: <WTRXGamer> I don't. Talk to kale.
+[23:34:48] [Server thread/INFO]: <Creepini> he went to bed
+[23:34:49] [Server thread/INFO]: <Creepini> lol
+[23:35:05] [Server thread/INFO]: <DiamondKing504> Already did. They said that you might have some of my items that they didn't give back to me. the
+[23:35:15] [Server thread/INFO]: <DiamondKing504> only one that I am really looking for is my crossbow bolts
+[23:35:22] [Server thread/INFO]: <WTRXGamer> Oh, I don't have that.
+[23:35:22] [Server thread/INFO]: <DiamondKing504> and everyone said to talk to you
+[23:35:29] [Server thread/INFO]: <DiamondKing504> oh, okay
+[23:35:29] [Server thread/INFO]: <DiamondKing504> dang
+[23:35:32] [Server thread/INFO]: <WTRXGamer> Sorry
+[23:36:18] [User Authenticator #16/INFO]: UUID of player davidahs592 is 2c5484af-65c3-466b-a732-bec5d824637b
+[23:36:20] [Server thread/INFO]: davidahs592[/71.211.176.176:62120] logged in with entity id 194222 at (565.6789230288939, 68.0, -2165.7161606493974)
+[23:36:20] [Server thread/INFO]: davidahs592 joined the game
+[23:37:02] [Server thread/INFO]: davidahs592 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:37:02] [Server thread/INFO]: davidahs592 left the game
+[23:37:33] [Server thread/INFO]: <Creepini> Why does industrialcraft have so much stuff that is tedious?
+[23:37:34] [Server thread/INFO]: <Creepini> xD
+[23:38:03] [Server thread/INFO]: <Creepini> but we got 72 Uranium 258
+[23:38:08] [Server thread/INFO]: <Creepini> but we got 72 Uranium 238
+[23:38:10] [Server thread/INFO]: <Creepini> whoops
+[23:39:03] [Server thread/INFO]: <DiamondKing504> weston
+[23:39:06] [Server thread/INFO]: <WTRXGamer> yeah
+[23:39:09] [Server thread/INFO]: <DiamondKing504> go to the villiage where we used to live
+[23:39:13] [Server thread/INFO]: <Creepini> lol.
+[23:39:13] [Server thread/INFO]: <WTRXGamer> Why
+[23:39:19] [Server thread/INFO]: <DiamondKing504> we're gonna set off a nuke
+[23:39:25] [Server thread/INFO]: <WTRXGamer> Did you steal my nuke?
+[23:39:26] [Server thread/INFO]: <Creepini> it gonna go bye bye
+[23:39:28] [Server thread/INFO]: <Creepini> nah
+[23:39:31] [Server thread/INFO]: <DiamondKing504> no.
+[23:39:34] [Server thread/INFO]: <Creepini> we made some uranium 238
+[23:39:35] [Server thread/INFO]: <Creepini> :D
+[23:39:38] [Server thread/INFO]: <WTRXGamer> Cause, soembody lost my nuke
+[23:39:41] [Server thread/INFO]: <Creepini> and a lot of it
+[23:39:43] [Server thread/INFO]: WTRXGamer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:39:43] [Server thread/INFO]: WTRXGamer left the game
+[23:39:47] [Server thread/INFO]: <Creepini> xD
+[23:40:08] [Server thread/INFO]: [Creepini: Teleported DiamondKing504 to Creepini]
+[23:42:53] [Server thread/WARN]: Creepini moved too quickly! 593.0364562222537,8.0,2806.8275187434147
+[23:42:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2019ms behind, skipping 40 tick(s)
+[23:48:45] [Server thread/INFO]: <Creepini> brb
+[23:48:46] [Server thread/INFO]: <Creepini> restroom
+[23:48:49] [Server thread/INFO]: Creepini lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:48:49] [Server thread/INFO]: Creepini left the game
+[23:49:47] [User Authenticator #17/INFO]: UUID of player Creepini is e1cae796-a835-44ba-b79e-9a810d9cd1ea
+[23:49:48] [Server thread/INFO]: Creepini[/192.168.0.1:54835] logged in with entity id 221073 at (563.251746229456, 67.0, -2165.3976061631447)
+[23:49:48] [Server thread/INFO]: Creepini joined the game
+[23:55:38] [Server thread/WARN]: DiamondKing504 moved wrongly!

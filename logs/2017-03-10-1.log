@@ -1,0 +1,76 @@
+[00:44:49] [Server thread/INFO]: Server Backup started!
+[00:44:49] [Server thread/INFO]: Turned off world auto-saving
+[00:44:49] [Server thread/INFO]: Saving...
+[00:44:49] [Server thread/INFO]: Saved the world
+[00:45:02] [Thread-75/INFO]: Server backup done in 00:00:12! (228.7MB | 1.8GB)
+[00:45:02] [Server thread/INFO]: Turned on world auto-saving
+[02:44:49] [Server thread/INFO]: Server Backup started!
+[02:44:49] [Server thread/INFO]: Turned off world auto-saving
+[02:44:49] [Server thread/INFO]: Saving...
+[02:44:49] [Server thread/INFO]: Saved the world
+[02:45:02] [Thread-100/INFO]: Server backup done in 00:00:12! (228.7MB | 2.0GB)
+[02:45:02] [Server thread/INFO]: Turned on world auto-saving
+[04:44:49] [Server thread/INFO]: Server Backup started!
+[04:44:49] [Server thread/INFO]: Turned off world auto-saving
+[04:44:49] [Server thread/INFO]: Saving...
+[04:44:49] [Server thread/INFO]: Saved the world
+[04:45:02] [Thread-125/INFO]: Server backup done in 00:00:12! (228.7MB | 2.3GB)
+[04:45:02] [Server thread/INFO]: Turned on world auto-saving
+[06:44:49] [Server thread/INFO]: Server Backup started!
+[06:44:49] [Server thread/INFO]: Turned off world auto-saving
+[06:44:49] [Server thread/INFO]: Saving...
+[06:44:49] [Server thread/INFO]: Saved the world
+[06:45:02] [Thread-150/INFO]: Server backup done in 00:00:12! (228.7MB | 2.4GB)
+[06:45:02] [Server thread/INFO]: Turned on world auto-saving
+[07:01:23] [File IO Thread/ERROR]: Failed to save chunk
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1437) ~[?:1.8.0_121]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1461) ~[?:1.8.0_121]
+	at net.minecraft.nbt.NBTTagCompound.func_74734_a(NBTTagCompound.java:23) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_150298_a(NBTTagCompound.java:453) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_74734_a(NBTTagCompound.java:26) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_150298_a(NBTTagCompound.java:453) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_74734_a(NBTTagCompound.java:26) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_150298_a(NBTTagCompound.java:453) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_74734_a(NBTTagCompound.java:26) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_150298_a(NBTTagCompound.java:453) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_74734_a(NBTTagCompound.java:26) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_150298_a(NBTTagCompound.java:453) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_74734_a(NBTTagCompound.java:26) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagList.func_74734_a(SourceFile:45) ~[dx.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_150298_a(NBTTagCompound.java:453) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_74734_a(NBTTagCompound.java:26) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_150298_a(NBTTagCompound.java:453) ~[dr.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_74734_a(NBTTagCompound.java:26) ~[dr.class:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_150663_a(CompressedStreamTools.java:111) ~[ea.class:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74800_a(CompressedStreamTools.java:101) ~[ea.class:?]
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_183013_b(AnvilChunkLoader.java:242) ~[atj.class:?]
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_75814_c(AnvilChunkLoader.java:220) [atj.class:?]
+	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37) [bbu.class:?]
+	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30) [bbu.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[08:16:15] [User Authenticator #10/INFO]: UUID of player Kelloggamer is ae7dc577-061c-44fa-b3bc-33a8e80186c7
+[08:16:17] [Server thread/INFO]: Kelloggamer[/108.71.182.76:54652] logged in with entity id 132785 at (1656.6875, 62.07326432466507, 665.6875)
+[08:16:17] [Server thread/INFO]: Kelloggamer joined the game
+[08:20:41] [Server thread/INFO]: Kelloggamer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[08:20:41] [Server thread/INFO]: Kelloggamer left the game
+[08:44:49] [Server thread/INFO]: Server Backup started!
+[08:44:49] [Server thread/INFO]: Turned off world auto-saving
+[08:44:49] [Server thread/INFO]: Saving...
+[08:44:49] [Server thread/INFO]: Saved the world
+[08:45:02] [Thread-175/INFO]: Server backup done in 00:00:13! (229.7MB | 2.5GB)
+[08:45:02] [Server thread/INFO]: Turned on world auto-saving
+[09:02:50] [Server thread/INFO]: There are 0/20 players online:
+[09:02:50] [Server thread/INFO]: 
+[09:03:17] [Server thread/INFO]: Stopping the server
+[09:03:17] [Server thread/INFO]: Stopping server
+[09:03:17] [Server thread/INFO]: Saving players
+[09:03:17] [Server thread/INFO]: Saving worlds
+[09:03:17] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[09:03:17] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[09:03:17] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[09:03:17] [Server thread/INFO]: Saving chunks for level 'world'/Deep Dark
+[09:03:17] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[09:03:17] [Server thread/INFO]: Saving chunks for level 'world'/simplevoidworld
+[09:03:17] [Server thread/INFO]: Saving chunks for level 'world'/MiningWorld
+[09:03:18] [Server Shutdown Thread/INFO]: Stopping server
